@@ -18,6 +18,10 @@ Wanderlust software: http://www.c2b2.columbia.edu/danapeerlab/html/wanderlust.ht
 
 Wanderlust manuscript: http://www.cell.com/cell/abstract/S0092-8674(14)00471-1
 
+Cycler software: http://www.cellcycler.org/
+
+Cycler manuscript: http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3545.html
+
 Wishbone software: http://www.c2b2.columbia.edu/danapeerlab/html/wishbone.html
 
 Wishbone manuscript: http://www.nature.com/nbt/journal/v34/n6/full/nbt.3569.html
