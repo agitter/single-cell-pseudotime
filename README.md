@@ -4,7 +4,8 @@ Single cells, many algorithms.  The goal of this page is to catalog the many
 algorithms that estimate pseudotimes for cells based on their gene expression
 levels.  Ultimately, it will contain method names, software links, manuscript
 links, and brief comments on the particular strengths of each method.
-Initially, it seeks to simply list as many methods as possible.
+Initially, it seeks to simply list as many methods as possible.  Some related
+methods not specifically designed for RNA-seq are included as well.
 
 The initial list was created by Anthony Gitter, but pull requests are very welcome.
 
@@ -30,6 +31,11 @@ Wishbone manuscript: http://www.nature.com/nbt/journal/v34/n6/full/nbt.3569.html
 Software: https://www.biostat.wisc.edu/~kendzior/OSCOPE/
 
 Manuscript: http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3549.html
+
+## Diffusion maps
+Software: https://www.helmholtz-muenchen.de/icb/research/groups/machine-learning/projects/single-cell-diffusion-map/index.html
+
+Manuscripts: http://www.nature.com/nbt/journal/v33/n3/full/nbt.3154.html and http://bioinformatics.oxfordjournals.org/content/31/18/2989.abstract
 
 ## DeLorean
 Software: https://github.com/JohnReid/DeLorean
