@@ -7,6 +7,9 @@ links, and brief comments on the particular strengths of each method.
 Initially, it seeks to simply list as many methods as possible.  Some related
 methods not specifically designed for RNA-seq are included as well.
 
+http://genome.cshlp.org/content/25/10/1491.full provides an overview of
+single-cell RNA-seq and the pseudotime estimation problem.
+
 The initial list was created by Anthony Gitter, but pull requests are very welcome.
 
 ## Monocle / Monocle 2
