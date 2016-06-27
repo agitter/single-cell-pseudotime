@@ -35,10 +35,14 @@ Software: https://www.biostat.wisc.edu/~kendzior/OSCOPE/
 
 Manuscript: http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3549.html
 
-## Diffusion maps
-Software: https://www.helmholtz-muenchen.de/icb/research/groups/machine-learning/projects/single-cell-diffusion-map/index.html
+## Diffusion maps / destiny
+Diffusion maps software: https://www.helmholtz-muenchen.de/icb/research/groups/machine-learning/projects/single-cell-diffusion-map/index.html
 
-Manuscripts: http://www.nature.com/nbt/journal/v33/n3/full/nbt.3154.html and http://bioinformatics.oxfordjournals.org/content/31/18/2989.abstract
+Diffusion maps manuscripts: http://www.nature.com/nbt/journal/v33/n3/full/nbt.3154.html and http://bioinformatics.oxfordjournals.org/content/31/18/2989.abstract
+
+destiny software: http://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/destiny/index.html
+
+destiny manuscript: http://bioinformatics.oxfordjournals.org/content/32/8/1241.full
 
 ## DeLorean
 Software: https://github.com/JohnReid/DeLorean
