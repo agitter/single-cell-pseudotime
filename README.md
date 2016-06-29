@@ -15,7 +15,7 @@ The initial list was created by Anthony Gitter, but pull requests are very welco
 
 Informally, the pseudotime estimation problem can be stated as:
 - **Given:** single-cell gene expression measurements for a heterogeneous
-collection cells that is transitioning from biological state **A** to
+collection of cells that is transitioning from biological state **A** to
 state **B**
 - **Return:** a quantitative value for each cell that represents its
 progress in the **A** to **B** transition
@@ -27,6 +27,7 @@ are common to most methods are:
 that cells that are nearby one another in the low dimensional space have similar
 expression levels because they are at similar points in to **A** to **B**
 process
+
 Dimension reduction sometimes relies on knowledge of important marker genes and
 sometimes uses the full gene expression matrix.  The trajectory through
 the low dimensional space can be identified using graph algorithms (e.g.,
@@ -40,9 +41,10 @@ overview of single-cell RNA-seq and the pseudotime estimation problem.
 ## Choosing a method
 
 Many algorithms compare themselves to Monocle, a pioneering method in this area,
-but do not evaluate Monocle 2 or other recent approaches.  Qualitatively, some
-of the distinguishing factors among algorithms include:
-- Use of prior knowledge like capture times (DeLorean) or switch-like marker
+but do not evaluate Monocle 2 or other recent approaches.  There is not yet a
+systematic benchmark.  Qualitatively, some of the distinguishing factors among
+algorithms include:
+- Use of prior knowledge such as capture times (DeLorean) or switch-like marker
 genes (Ouija)
 - Modeling specific types of biological processes such as branching processes
 in differentiation (multiple methods) or cyclic processes (Oscope)
