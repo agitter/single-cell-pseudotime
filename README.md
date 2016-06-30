@@ -90,7 +90,7 @@ destiny manuscript: http://bioinformatics.oxfordjournals.org/content/32/8/1241.f
 ### DeLorean
 Software: https://github.com/JohnReid/DeLorean
 
-Manuscript: http://biorxiv.org/content/early/2015/05/21/019588
+Manuscript: http://bioinformatics.oxfordjournals.org/content/early/2016/06/16/bioinformatics.btw372.abstract
 
 ### Waterfall
 Manuscript: http://www.cell.com/cell-stem-cell/abstract/S1934-5909(15)00312-4
