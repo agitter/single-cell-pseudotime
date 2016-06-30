@@ -34,7 +34,8 @@ the low dimensional space can be identified using graph algorithms (e.g.,
 minimum spanning tree or shortest path) or probabilistic models (e.g.,
 Gaussian process).
 
-http://genome.cshlp.org/content/25/10/1491.full provides a more comprehensive
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y
+and http://genome.cshlp.org/content/25/10/1491.full provide a more comprehensive
 overview of single-cell RNA-seq and the pseudotime estimation problem.
 
 
