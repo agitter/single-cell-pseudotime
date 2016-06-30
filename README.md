@@ -31,8 +31,8 @@ process
 Dimension reduction sometimes relies on knowledge of important marker genes and
 sometimes uses the full gene expression matrix.  The trajectory through
 the low dimensional space can be identified using graph algorithms (e.g.,
-minimum spanning tree or shortest path) or probabilistic models (e.g.,
-Gaussian process).
+minimum spanning tree or shortest path), principal curves, or probabilistic
+models (e.g., Gaussian process).
 
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y
 and http://genome.cshlp.org/content/25/10/1491.full provide a more comprehensive
@@ -72,6 +72,11 @@ Cycler manuscript: http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3545.h
 Wishbone software: http://www.c2b2.columbia.edu/danapeerlab/html/wishbone.html
 
 Wishbone manuscript: http://www.nature.com/nbt/journal/v34/n6/full/nbt.3569.html
+
+### SCUBA
+Software: https://github.com/gcyuan/SCUBA
+
+Manuscript: http://www.pnas.org/content/111/52/E5643.abstract
 
 ### Oscope
 Software: https://www.biostat.wisc.edu/~kendzior/OSCOPE/
@@ -117,6 +122,11 @@ Manuscript: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0
 Software: https://github.com/zji90/TSCAN
 
 Manuscript: http://nar.oxfordjournals.org/content/early/2016/05/13/nar.gkw430.abstract
+
+### SCOUP
+Software: https://github.com/hmatsu1226/SCOUP
+
+Manuscript: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1109-3
 
 ### Topslam
 Software: https://github.com/mzwiessele/topslam
