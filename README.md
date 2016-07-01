@@ -37,6 +37,8 @@ models (e.g., Gaussian process).
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y
 and http://genome.cshlp.org/content/25/10/1491.full provide a more comprehensive
 overview of single-cell RNA-seq and the pseudotime estimation problem.
+OMICtools has compiled a more general list of methods for single-cell RNA-seq
+https://omictools.com/single-cell-rna-seq-category.
 
 
 ## Choosing a method
