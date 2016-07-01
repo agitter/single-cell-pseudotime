@@ -21,7 +21,7 @@ state **B**
 progress in the **A** to **B** transition
 
 There are many ways to approach this problem, and major algorithmic steps that
-are common to most methods are:
+are common to most (but not all) methods are:
 - Reduce the dimension of the dataset
 - Find a smooth progression through the low dimensional data, assuming
 that cells that are nearby one another in the low dimensional space have similar
@@ -140,3 +140,5 @@ Manuscript: http://biorxiv.org/content/early/2016/06/23/060442
 
 ### Slingshot
 Software: https://github.com/kstreet13/slingshot
+
+Extended vignette: https://github.com/drisso/bioc2016singlecell/tree/master/vignettes
