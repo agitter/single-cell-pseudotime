@@ -146,3 +146,7 @@ Manuscript: http://biorxiv.org/content/early/2016/06/23/060442
 Software: https://github.com/kstreet13/slingshot
 
 Extended vignette: https://github.com/drisso/bioc2016singlecell/tree/master/vignettes
+
+### GPfates
+
+Work in progress: https://github.com/Teichlab/GPfates
