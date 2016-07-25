@@ -113,6 +113,8 @@ Software: https://github.com/kieranrcampbell/gpseudotime
 Manuscript: http://biorxiv.org/content/early/2015/09/15/026872
 
 ### GP-LVM
+Analysis code: https://github.com/Teichlab/spectrum-of-differentiation-supplements
+
 Manuscript: http://www.cell.com/cell-reports/abstract/S2211-1247(15)01538-7
 
 ### SLICER
