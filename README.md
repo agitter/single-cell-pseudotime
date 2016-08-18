@@ -156,3 +156,7 @@ Work in progress: https://github.com/Teichlab/GPfates
 Software: https://github.com/dimenwarper/scimitar
 
 Manuscript: http://biorxiv.org/content/early/2016/08/18/070151
+
+### WaveCrest
+
+Software: https://github.com/lengning/WaveCrest
