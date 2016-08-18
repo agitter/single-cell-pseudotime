@@ -150,3 +150,9 @@ Extended vignette: https://github.com/drisso/bioc2016singlecell/tree/master/vign
 ### GPfates
 
 Work in progress: https://github.com/Teichlab/GPfates
+
+### SCIMITAR
+
+Software: https://github.com/dimenwarper/scimitar
+
+Manuscript: http://biorxiv.org/content/early/2016/08/18/070151
