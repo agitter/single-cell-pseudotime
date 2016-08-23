@@ -160,3 +160,5 @@ Manuscript: http://biorxiv.org/content/early/2016/08/18/070151
 ### WaveCrest
 
 Software: https://github.com/lengning/WaveCrest
+
+Manuscript: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1033-x
