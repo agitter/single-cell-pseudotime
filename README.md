@@ -169,3 +169,9 @@ Manuscript: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1
 ### LEAP
 
 Software: https://cran.r-project.org/web/packages/LEAP/index.html
+
+### CellTree
+
+Software: http://bioconductor.org/packages/release/bioc/html/cellTree.html
+
+Manuscript: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1175-6
