@@ -175,3 +175,7 @@ Software: https://cran.r-project.org/web/packages/LEAP/index.html
 Software: http://bioconductor.org/packages/release/bioc/html/cellTree.html
 
 Manuscript: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1175-6
+
+### Bayesian hierarchical mixture of factor analysers
+
+Manuscript: http://biorxiv.org/content/early/2016/09/21/076547
