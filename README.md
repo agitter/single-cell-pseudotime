@@ -181,3 +181,9 @@ Manuscript: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-0
 ### Bayesian hierarchical mixture of factor analysers
 
 Manuscript: http://biorxiv.org/content/early/2016/09/21/076547
+
+### Mpath
+
+Software: https://github.com/JinmiaoChenLab/Mpath
+
+Manuscript: http://www.nature.com/ncomms/2016/160630/ncomms11988/full/ncomms11988.html
