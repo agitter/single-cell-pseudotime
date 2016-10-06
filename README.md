@@ -2,7 +2,8 @@
 
 Single cells, many algorithms.  The goal of this page is to catalog the many
 algorithms that estimate pseudotimes for cells based on their gene expression
-levels.  Ultimately, it will contain method names, software links, manuscript
+levels.  This problem is also referred to as single-cell trajectory inference
+or ordering.  Ultimately, it will contain method names, software links, manuscript
 links, and brief comments on the particular strengths of each method.
 Initially, it seeks simply to list as many methods as possible.  Some related
 methods not specifically designed for RNA-seq (e.g. mass cytometry) are
@@ -187,3 +188,9 @@ Manuscript: http://biorxiv.org/content/early/2016/09/21/076547
 Software: https://github.com/JinmiaoChenLab/Mpath
 
 Manuscript: http://www.nature.com/ncomms/2016/160630/ncomms11988/full/ncomms11988.html
+
+### SCORPIUS
+
+Software: https://github.com/rcannood/SCORPIUS
+
+Manuscript: http://biorxiv.org/content/early/2016/10/06/079509
