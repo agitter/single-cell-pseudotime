@@ -111,10 +111,14 @@ Software: https://github.com/kieranrcampbell/embeddr
 
 Manuscript: http://biorxiv.org/content/early/2015/09/18/027219
 
-### GP-LVM
-Software: https://github.com/kieranrcampbell/gpseudotime
+### GP-LVM and pseudogp
+GP-LVM software: https://github.com/kieranrcampbell/gpseudotime
 
-Manuscript: http://biorxiv.org/content/early/2015/09/15/026872
+GP-LVM manuscript: http://biorxiv.org/content/early/2015/09/15/026872
+
+pseudogp software: https://github.com/kieranrcampbell/pseudogp
+
+pseudogp manuscript: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005212
 
 ### GP-LVM
 Analysis code: https://github.com/Teichlab/spectrum-of-differentiation-supplements
@@ -194,3 +198,9 @@ Manuscript: http://www.nature.com/ncomms/2016/160630/ncomms11988/full/ncomms1198
 Software: https://github.com/rcannood/SCORPIUS
 
 Manuscript: http://biorxiv.org/content/early/2016/10/06/079509
+
+### SCODE
+
+Software: https://github.com/hmatsu1226/SCODE
+
+Manuscript: http://biorxiv.org/content/early/2016/11/22/088856
