@@ -61,10 +61,12 @@ for each cell
 
 ## Algorithms
 
-### Monocle / Monocle 2
-Software: http://cole-trapnell-lab.github.io/monocle-release/
+### Monocle / Monocle 2 / Census
+Software: https://bioconductor.org/packages/release/bioc/html/monocle.html
 
-Manuscript: http://www.nature.com/nbt/journal/v32/n4/full/nbt.2859.html
+Monocle manuscript: http://www.nature.com/nbt/journal/v32/n4/full/nbt.2859.html
+
+Census manuscript: http://doi.org/10.1038/nmeth.4150
 
 ### Wanderlust / Cycler / Wishbone
 Wanderlust software: http://www.c2b2.columbia.edu/danapeerlab/html/wanderlust.html
@@ -210,4 +212,3 @@ Manuscript: http://biorxiv.org/content/early/2016/11/22/088856
 Software: https://bioconductor.org/packages/release/bioc/html/switchde.html
 
 Manuscript: https://doi.org/10.1093/bioinformatics/btw798
-
