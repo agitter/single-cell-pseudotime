@@ -204,3 +204,10 @@ Manuscript: http://biorxiv.org/content/early/2016/10/06/079509
 Software: https://github.com/hmatsu1226/SCODE
 
 Manuscript: http://biorxiv.org/content/early/2016/11/22/088856
+
+### switchde
+
+Software: https://bioconductor.org/packages/release/bioc/html/switchde.html
+
+Manuscript: https://doi.org/10.1093/bioinformatics/btw798
+
