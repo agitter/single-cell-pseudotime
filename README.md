@@ -37,7 +37,9 @@ minimum spanning tree or shortest path), principal curves, or probabilistic
 models (e.g., Gaussian process).
 
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y
-and http://genome.cshlp.org/content/25/10/1491.full provide a more comprehensive
+http://genome.cshlp.org/content/25/10/1491.full and
+http://www.nature.com/nature/journal/v541/n7637/full/nature21350.html
+provide a more comprehensive
 overview of single-cell RNA-seq and the pseudotime estimation problem.
 http://onlinelibrary.wiley.com/wol1/doi/10.1002/eji.201646347/abstract
 reviews pseudotime inference algorithms.
