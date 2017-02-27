@@ -70,6 +70,8 @@ Monocle manuscript: http://www.nature.com/nbt/journal/v32/n4/full/nbt.2859.html
 
 Census manuscript: http://doi.org/10.1038/nmeth.4150
 
+Monocle 2 manuscript: https://doi.org/10.1101/110668
+
 ### Wanderlust / Cycler / Wishbone
 Wanderlust software: http://www.c2b2.columbia.edu/danapeerlab/html/wanderlust.html
 
