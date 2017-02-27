@@ -214,3 +214,9 @@ Manuscript: http://biorxiv.org/content/early/2016/11/22/088856
 Software: https://bioconductor.org/packages/release/bioc/html/switchde.html
 
 Manuscript: https://doi.org/10.1093/bioinformatics/btw798
+
+### MAGIC
+
+Software: https://github.com/pkathail/magic/
+
+Manuscript: https://doi.org/10.1101/111591
