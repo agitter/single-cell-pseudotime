@@ -222,3 +222,9 @@ Manuscript: https://doi.org/10.1093/bioinformatics/btw798
 Software: https://github.com/pkathail/magic/
 
 Manuscript: https://doi.org/10.1101/111591
+
+### PHATE
+
+Software: https://github.com/SmitaKrishnaswamy/PHATE
+
+Manuscript: https://doi.org/10.1101/120378
