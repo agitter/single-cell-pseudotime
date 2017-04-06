@@ -232,3 +232,7 @@ Manuscript: https://doi.org/10.1101/111591
 Software: https://github.com/SmitaKrishnaswamy/PHATE
 
 Manuscript: https://doi.org/10.1101/120378
+
+### SOMSC
+
+Manuscript: https://doi.org/10.1101/124693
