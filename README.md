@@ -236,3 +236,9 @@ Manuscript: https://doi.org/10.1101/120378
 ### SOMSC
 
 Manuscript: https://doi.org/10.1101/124693
+
+### TASIC
+
+Software: https://www.andrew.cmu.edu/user/sabrinar/TASIC
+
+Manuscript: https://doi.org/10.1093/bioinformatics/btx173
