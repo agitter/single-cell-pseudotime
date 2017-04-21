@@ -8,7 +8,7 @@ links, and brief comments on the particular strengths of each method.
 Initially, it seeks simply to list as many methods as possible.  Some related
 methods not specifically designed for RNA-seq (e.g. mass cytometry) are
 included as well.  The list also includes methods
-that are specificaly designed to take pseudotemporal data as input.
+that are specifically designed to take pseudotemporal data as input.
 
 The initial list was created by Anthony Gitter, but pull requests are very welcome.
 
@@ -160,6 +160,8 @@ Manuscript: http://biorxiv.org/content/early/2016/06/23/060442
 Software: https://github.com/kstreet13/slingshot
 
 Extended vignette: https://github.com/drisso/bioc2016singlecell/tree/master/vignettes
+
+Manuscript: http://biorxiv.org/content/early/2017/04/19/128843
 
 ### GPfates
 
