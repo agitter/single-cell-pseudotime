@@ -244,3 +244,9 @@ Manuscript: https://doi.org/10.1101/124693
 Software: https://www.andrew.cmu.edu/user/sabrinar/TASIC
 
 Manuscript: https://doi.org/10.1093/bioinformatics/btx173
+
+### FORKS
+
+Software: https://github.com/macsharma/FORKS
+
+Manuscript: https://doi.org/10.1101/132811
