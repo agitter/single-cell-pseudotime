@@ -250,3 +250,9 @@ Manuscript: https://doi.org/10.1093/bioinformatics/btx173
 Software: https://github.com/macsharma/FORKS
 
 Manuscript: https://doi.org/10.1101/132811
+
+### UNCURL
+
+Software: https://github.com/mukhes3/UNCURL_release
+
+Manuscript: https://doi.org/10.1101/142398
