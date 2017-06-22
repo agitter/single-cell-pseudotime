@@ -256,3 +256,9 @@ Manuscript: https://doi.org/10.1101/132811
 Software: https://github.com/mukhes3/UNCURL_release
 
 Manuscript: https://doi.org/10.1101/142398
+
+### reCAT
+
+Software: https://github.com/tinglab/reCAT
+
+Manuscript: https://doi.org/10.1038/s41467-017-00039-z
