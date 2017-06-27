@@ -262,3 +262,9 @@ Manuscript: https://doi.org/10.1101/142398
 Software: https://github.com/tinglab/reCAT
 
 Manuscript: https://doi.org/10.1038/s41467-017-00039-z
+
+## Related topics
+
+### Cicero
+
+Manuscript: https://doi.org/10.1101/155473
