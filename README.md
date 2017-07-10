@@ -263,6 +263,12 @@ Software: https://github.com/tinglab/reCAT
 
 Manuscript: https://doi.org/10.1038/s41467-017-00039-z
 
+### PhenoPath
+
+Software: https://github.com/kieranrcampbell/phenopath
+
+Manuscript: https://doi.org/10.1101/159913
+
 ## Related topics
 
 ### Cicero
