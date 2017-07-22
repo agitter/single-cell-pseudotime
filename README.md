@@ -271,6 +271,12 @@ Software: https://github.com/kieranrcampbell/phenopath
 
 Manuscript: https://doi.org/10.1101/159913
 
+### Branched Gaussian processes
+
+Software: https://github.com/ManchesterBioinference/BranchedGP
+
+Manuscript: https://doi.org/10.1101/166868
+
 ## Related topics
 
 ### Cicero
