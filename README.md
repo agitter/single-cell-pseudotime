@@ -163,6 +163,8 @@ Extended vignette: https://github.com/drisso/bioc2016singlecell/tree/master/vign
 
 Manuscript: http://biorxiv.org/content/early/2017/04/19/128843
 
+Workflow manuscript: http://dx.doi.org/10.12688/f1000research.12122.1
+
 ### GPfates
 
 Software: https://github.com/Teichlab/GPfates
