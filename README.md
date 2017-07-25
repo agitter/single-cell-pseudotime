@@ -277,6 +277,12 @@ Software: https://github.com/ManchesterBioinference/BranchedGP
 
 Manuscript: https://doi.org/10.1101/166868
 
+### Branch-recombinant Gaussian Processes
+
+Software: https://github.com/cap76/BranchingGPs (not yet available as of latest commit)
+
+Manuscript: https://doi.org/10.1101/167684
+
 ## Related topics
 
 ### Cicero
