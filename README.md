@@ -283,6 +283,12 @@ Software: https://github.com/cap76/BranchingGPs (not yet available as of latest 
 
 Manuscript: https://doi.org/10.1101/167684
 
+### MATCHER
+
+Software: https://github.com/jw156605/MATCHER and https://pypi.python.org/pypi/pymatcher
+
+Manuscript: https://doi.org/10.1186/s13059-017-1269-0
+
 ## Related topics
 
 ### Cicero
