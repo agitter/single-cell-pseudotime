@@ -289,6 +289,28 @@ Software: https://github.com/jw156605/MATCHER and https://pypi.python.org/pypi/p
 
 Manuscript: https://doi.org/10.1186/s13059-017-1269-0
 
+### SoptSC
+
+Software: https://github.com/WangShuxiong/SoptSC
+
+Manuscript: [Low-rank Similarity Matrix Optimization Identifies Subpopulation Structure and Orders Single Cells in Pseudotime](https://doi.org/10.1101/168922)
+
+### Di-SNE
+
+Manuscript: [Assessment of clonal kinetics reveals multiple trajectories of dendritic cell development](https://doi.org/10.1101/167635)
+
+### Population Balance Analysis
+
+Software: https://github.com/AllonKleinLab/PBA
+
+Manuscript: [Fundamental limits on dynamic inference from single cell snapshots](https://doi.org/10.1101/170118)
+
+### Scanpy
+
+Software: https://github.com/theislab/scanpy and https://pypi.python.org/pypi/scanpy
+
+Manuscript: [Scanpy for analysis of large-scale single-cell gene expression data](https://doi.org/10.1101/174029)
+
 ## Related topics
 
 ### Cicero
