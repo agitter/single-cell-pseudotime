@@ -43,8 +43,10 @@ provide a more comprehensive
 overview of single-cell RNA-seq and the pseudotime estimation problem.
 http://onlinelibrary.wiley.com/wol1/doi/10.1002/eji.201646347/abstract
 reviews pseudotime inference algorithms.
-OMICtools has compiled a more general list of methods for single-cell RNA-seq
-https://omictools.com/single-cell-rna-seq-category.
+[Pablo Cordero's blog post](http://hyperparameter.space/blog/a-single-cell-journey-from-mechanistic-to-descriptive-modeling-and-back-again/)
+discusses why it is hard to recover the correct dynamics of a system from
+single-cell data. OMICtools has compiled a more general list of methods
+for single-cell RNA-seq https://omictools.com/single-cell-rna-seq-category.
 
 
 ## Choosing a method
