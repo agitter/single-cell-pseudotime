@@ -324,3 +324,7 @@ Manuscript: https://doi.org/10.1101/155473
 Software: https://github.com/roshan9128/tides
 
 Manuscript: https://doi.org/10.1101/155028
+
+### WADDINGTON-OT
+
+Manuscript: https://doi.org/10.1101/191056
