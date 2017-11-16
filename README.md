@@ -328,3 +328,9 @@ Manuscript: https://doi.org/10.1101/155028
 ### WADDINGTON-OT
 
 Manuscript: https://doi.org/10.1101/191056
+
+### pseudodynamics
+
+Software: https://github.com/theislab/pseudodynamics
+
+Manuscript: [Beyond pseudotime: Following T-cell maturation in single-cell RNAseq time series](https://doi.org/10.1101/219188)
