@@ -64,6 +64,8 @@ genes (Ouija)
 in differentiation (multiple methods) or cyclic processes (Oscope)
 - Return a single pseudotime or a posterior distribution over pseudotimes
 for each cell
+- Perform additional analyses after inferring pseudotimes such as regulatory
+network inference or identifying differentially expressed genes over pseudotime
 
 
 ## Algorithms
@@ -331,6 +333,32 @@ Manuscript: https://doi.org/10.1101/191056
 Software: https://github.com/theislab/pseudodynamics
 
 Manuscript: [Beyond pseudotime: Following T-cell maturation in single-cell RNAseq time series](https://doi.org/10.1101/219188)
+
+### Approximate graph abstraction
+
+Software: https://github.com/theislab/graph_abstraction
+
+Manuscript: [Graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells](https://doi.org/10.1101/208819)
+
+### GPseudoRank
+
+Manuscript: [GPseudoRank: MCMC for sampling from posterior distributions of pseudo-orderings using Gaussian processes](https://doi.org/10.1101/211417)
+
+### FateID
+
+Software: https://github.com/dgrun/FateID
+
+Manuscript: [FateID infers cell fate bias in multipotent progenitors from single-cell RNA-seq data](https://doi.org/10.1101/218115)
+
+### cycleX
+
+Manuscript: [cycleX: multi-dimensional pseudotime reveals cell cycle and differentiation relationship of dendritic cell progenitors](https://doi.org/10.1101/222372)
+
+### GrandPrix
+
+Software: https://github.com/ManchesterBioinference/GrandPrix
+
+Manuscript: [GrandPrix: Scaling up the Bayesian GPLVM for single-cell data](https://doi.org/10.1101/227843)
 
 ## Related topics
 
