@@ -313,12 +313,6 @@ Software: https://github.com/theislab/scanpy and https://pypi.python.org/pypi/sc
 
 Manuscript: [Scanpy for analysis of large-scale single-cell gene expression data](https://doi.org/10.1101/174029)
 
-## Related topics
-
-### Cicero
-
-Manuscript: https://doi.org/10.1101/155473
-
 ### TIDES
 
 Software: https://github.com/roshan9128/tides
@@ -334,3 +328,9 @@ Manuscript: https://doi.org/10.1101/191056
 Software: https://github.com/theislab/pseudodynamics
 
 Manuscript: [Beyond pseudotime: Following T-cell maturation in single-cell RNAseq time series](https://doi.org/10.1101/219188)
+
+## Related topics
+
+### Cicero
+
+Manuscript: https://doi.org/10.1101/155473
