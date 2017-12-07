@@ -47,6 +47,9 @@ reviews pseudotime inference algorithms.
 discusses why it is hard to recover the correct dynamics of a system from
 single-cell data. OMICtools has compiled a more general list of methods
 for single-cell RNA-seq https://omictools.com/single-cell-rna-seq-category.
+The Hemberg lab [single-cell RNA-seq course](https://hemberg-lab.github.io/scRNA.seq.course/index.html)
+has an [overview of four pseudotime algorithms](https://hemberg-lab.github.io/scRNA.seq.course/pseudotime-analysis.html)
+with usage examples.
 
 
 ## Choosing a method
