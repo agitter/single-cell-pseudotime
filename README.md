@@ -360,6 +360,10 @@ Software: https://github.com/ManchesterBioinference/GrandPrix
 
 Manuscript: [GrandPrix: Scaling up the Bayesian GPLVM for single-cell data](https://doi.org/10.1101/227843)
 
+### Partial differential equations
+
+Manuscript: [Modeling acute myeloid leukemia in a continuum of differentiation states](https://doi.org/10.1101/237438)
+
 ## Related topics
 
 ### Cicero
