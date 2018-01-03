@@ -370,3 +370,7 @@ Manuscript: [Modeling acute myeloid leukemia in a continuum of differentiation s
 ### Cicero
 
 Manuscript: https://doi.org/10.1101/155473
+
+### Effects of imputation on cell ordering
+
+Manuscript: [Comparison of computational methods for imputing single-cell RNA-sequencing data](https://doi.org/10.1101/241190)
