@@ -365,6 +365,12 @@ Manuscript: [GrandPrix: Scaling up the Bayesian GPLVM for single-cell data](http
 
 Manuscript: [Modeling acute myeloid leukemia in a continuum of differentiation states](https://doi.org/10.1101/237438)
 
+### scdiff
+
+Software: https://github.com/phoenixding/scdiff and https://pypi.python.org/pypi/scdiff/
+
+Manuscript: [Reconstructing differentiation networks and their regulation from time series single cell expression data](https://doi.org/10.1101/gr.225979.117)
+
 ## Related topics
 
 ### Cicero
