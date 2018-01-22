@@ -371,6 +371,10 @@ Software: https://github.com/phoenixding/scdiff and https://pypi.python.org/pypi
 
 Manuscript: [Reconstructing differentiation networks and their regulation from time series single cell expression data](https://doi.org/10.1101/gr.225979.117)
 
+### Topographer
+
+Manuscript: [Topographer Reveals Stochastic Dynamics of Cell Fate Decisions from Single-Cell RNA-Seq Data](https://doi.org/10.1101/251207)
+
 ## Related topics
 
 ### Cicero
