@@ -375,6 +375,10 @@ Manuscript: [Reconstructing differentiation networks and their regulation from t
 
 Manuscript: [Topographer Reveals Stochastic Dynamics of Cell Fate Decisions from Single-Cell RNA-Seq Data](https://doi.org/10.1101/251207)
 
+### Markov-Chain Entropy
+
+Manuscript: [Quantifying Waddington's epigenetic landscape: a comparison of single-cell potency measures](https://doi.org/10.1101/257220)
+
 ## Related topics
 
 ### Cicero
