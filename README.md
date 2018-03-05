@@ -379,6 +379,12 @@ Manuscript: [Topographer Reveals Stochastic Dynamics of Cell Fate Decisions from
 
 Manuscript: [Quantifying Waddington's epigenetic landscape: a comparison of single-cell potency measures](https://doi.org/10.1101/257220)
 
+### DensityPath 
+
+Software: https://github.com/ucasdp/DensityPath
+
+Manuscript: [DensityPath: a level-set algorithm to visualize and reconstruct cell developmental trajectories for large-scale single-cell RNAseq data](https://doi.org/10.1101/276311)
+
 ## Related topics
 
 ### Cicero
