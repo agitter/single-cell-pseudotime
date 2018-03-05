@@ -398,3 +398,9 @@ Manuscript: https://doi.org/10.1101/155473
 ### Effects of imputation on cell ordering
 
 Manuscript: [Comparison of computational methods for imputing single-cell RNA-sequencing data](https://doi.org/10.1101/241190)
+
+### PROSSTT
+
+Software: https://github.com/soedinglab/prosstt
+
+Manuscript: [PROSSTT: probabilistic simulation of single-cell RNA-seq data for complex differentiation processes](https://doi.org/10.1101/256941)
