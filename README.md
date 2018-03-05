@@ -379,6 +379,10 @@ Manuscript: [Topographer Reveals Stochastic Dynamics of Cell Fate Decisions from
 
 Manuscript: [Quantifying Waddington's epigenetic landscape: a comparison of single-cell potency measures](https://doi.org/10.1101/257220)
 
+### Microstates
+
+Manuscript: [Machine learning methods to reverse engineer dynamic gene regulatory networks governing cell state transitions](https://doi.org/10.1101/264671)
+
 ### DensityPath 
 
 Software: https://github.com/ucasdp/DensityPath
