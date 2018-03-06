@@ -55,10 +55,7 @@ with usage examples.
 
 ## Choosing a method
 
-Many algorithms compare themselves to Monocle, a pioneering method in this area,
-but do not evaluate Monocle 2 or other recent approaches.  There is not yet a
-systematic benchmark.  Qualitatively, some of the distinguishing factors among
-algorithms include:
+Some of the distinguishing factors among algorithms include:
 - Use of prior knowledge such as capture times (DeLorean) or switch-like marker
 genes (Ouija)
 - Modeling specific types of biological processes such as branching processes
@@ -68,6 +65,11 @@ for each cell
 - Perform additional analyses after inferring pseudotimes such as regulatory
 network inference or identifying differentially expressed genes over pseudotime
 
+[Saelens et al. 2018](https://doi.org/10.1101/276907) performed a comprehensive
+evaluation of 29 different single-cell trajectory inference methods and discuss
+the different types of algorithms in more detail.  They benchmark both
+quantitative performance and assess software quality.  See their
+[GitHub repository](https://github.com/dynverse/dynverse) as well.
 
 ## Algorithms
 
