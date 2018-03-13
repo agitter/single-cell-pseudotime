@@ -406,3 +406,9 @@ Manuscript: [Comparison of computational methods for imputing single-cell RNA-se
 Software: https://github.com/soedinglab/prosstt
 
 Manuscript: [PROSSTT: probabilistic simulation of single-cell RNA-seq data for complex differentiation processes](https://doi.org/10.1101/256941)
+
+### CellAlign
+
+Software: https://github.com/shenorrLab/cellAlign
+
+Manuscript: [Alignment of single-cell trajectories to compare cellular expression dynamics](https://doi.org/10.1038/nmeth.4628)
