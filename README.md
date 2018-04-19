@@ -391,6 +391,14 @@ Software: https://github.com/ucasdp/DensityPath
 
 Manuscript: [DensityPath: a level-set algorithm to visualize and reconstruct cell developmental trajectories for large-scale single-cell RNAseq data](https://doi.org/10.1101/276311)
 
+### STREAM
+
+Software: https://github.com/pinellolab/stream
+
+Manuscript: [STREAM: Single-cell Trajectories Reconstruction, Exploration And Mapping of omics data](https://doi.org/10.1101/302554)
+
+Website: http://stream.pinellolab.org/
+
 ## Related topics
 
 ### Cicero
