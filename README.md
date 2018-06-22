@@ -277,9 +277,9 @@ Manuscript: https://doi.org/10.1038/s41467-017-00039-z
 
 ### PhenoPath
 
-Software: https://github.com/kieranrcampbell/phenopath
+Software: [Bioconductor package](https://doi.org/10.18129/B9.bioc.phenopath) and https://github.com/kieranrcampbell/phenopath
 
-Manuscript: https://doi.org/10.1101/159913
+Manuscript: [Uncovering pseudotemporal trajectories with covariates from single cell and bulk expression data](https://doi.org/10.1038/s41467-018-04696-6)
 
 ### Branched Gaussian processes
 
