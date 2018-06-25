@@ -390,7 +390,7 @@ Website: http://stream.pinellolab.org/
 
 Software: https://github.com/NetLand-NTU/HopLand
 
-Manuscript: [HopLand: single-cell pseudotime recovery using continuous Hopfield network-based modeling of Waddington’s epigenetic landscape](https://doi.org/10.1093/bioinformatics/btx232)
+Manuscript: [HopLand: single-cell pseudotime recovery using continuous Hopfield network-based modeling of Waddington's epigenetic landscape](https://doi.org/10.1093/bioinformatics/btx232)
 
 ## Related topics
 
