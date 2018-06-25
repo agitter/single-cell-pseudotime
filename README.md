@@ -1,14 +1,13 @@
 # Single-cell RNA-seq pseudotime estimation algorithms
 
-Single cells, many algorithms.  The goal of this page is to catalog the many
-algorithms that estimate pseudotimes for cells based on their gene expression
-levels.  This problem is also referred to as single-cell trajectory inference
-or ordering.  Ultimately, it will contain method names, software links, manuscript
-links, and brief comments on the particular strengths of each method.
-Initially, it seeks simply to list as many methods as possible.  Some related
-methods not specifically designed for RNA-seq (e.g. mass cytometry) are
-included as well.  The list also includes methods
-that are specifically designed to take pseudotemporal data as input.
+Single cells, many algorithms.
+The goal of this page is to catalog the many algorithms that estimate pseudotimes for cells based on their gene expression levels.
+This problem is also referred to as single-cell trajectory inference
+or ordering.
+Ultimately, it will contain method names, software links, manuscript links, and brief comments on the particular strengths of each method.
+Initially, it seeks simply to list as many methods as possible.
+Some related methods not specifically designed for RNA-seq (e.g. mass cytometry) are included as well.
+The list also includes methods that are specifically designed to take pseudotemporal data as input.
 
 The initial list was created by Anthony Gitter, but pull requests are very welcome.
 
@@ -16,60 +15,32 @@ The initial list was created by Anthony Gitter, but pull requests are very welco
 ## Problem overview
 
 Informally, the pseudotime estimation problem can be stated as:
-- **Given:** single-cell gene expression measurements for a heterogeneous
-collection of cells that is transitioning from biological state **A** to
-state **B**
-- **Return:** a quantitative value for each cell that represents its
-progress in the **A** to **B** transition
+- **Given:** single-cell gene expression measurements for a heterogeneous collection of cells that is transitioning from biological state **A** to state **B**
+- **Return:** a quantitative value for each cell that represents its progress in the **A** to **B** transition
 
-There are many ways to approach this problem, and major algorithmic steps that
-are common to most (but not all) methods are:
+There are many ways to approach this problem, and major algorithmic steps that are common to most (but not all) methods are:
 - Reduce the dimension of the dataset
-- Find a smooth progression through the low dimensional data, assuming
-that cells that are nearby one another in the low dimensional space have similar
-expression levels because they are at similar points in to **A** to **B**
-process
+- Find a smooth progression through the low dimensional data, assuming that cells that are nearby one another in the low dimensional space have similar expression levels because they are at similar points in to **A** to **B** process
 
-Dimension reduction sometimes relies on knowledge of important marker genes and
-sometimes uses the full gene expression matrix.  The trajectory through
-the low dimensional space can be identified using graph algorithms (e.g.,
-minimum spanning tree or shortest path), principal curves, or probabilistic
-models (e.g., Gaussian process).
+Dimension reduction sometimes relies on knowledge of important marker genes and sometimes uses the full gene expression matrix.  The trajectory through the low dimensional space can be identified using graph algorithms (e.g., minimum spanning tree or shortest path), principal curves, or probabilistic models (e.g., Gaussian process).
 
-[Bacher and Kendziorski 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y),
-[Trapnell 2015](http://genome.cshlp.org/content/25/10/1491.full),
-[Tanay and Regev 2017](http://www.nature.com/nature/journal/v541/n7637/full/nature21350.html) and
-[Moon et al. 2017](https://doi.org/10.1016/j.coisb.2017.12.008)
-provide a more comprehensive
-overview of single-cell RNA-seq and the pseudotime estimation problem.
-[Cannoodt et al. 2016](http://onlinelibrary.wiley.com/wol1/doi/10.1002/eji.201646347/abstract)
-reviews pseudotime inference algorithms.
-[Pablo Cordero's blog post](http://hyperparameter.space/blog/a-single-cell-journey-from-mechanistic-to-descriptive-modeling-and-back-again/)
-discusses why it is hard to recover the correct dynamics of a system from
-single-cell data. OMICtools has compiled a more general list of methods
-for single-cell RNA-seq https://omictools.com/single-cell-rna-seq-category.
-The Hemberg lab [single-cell RNA-seq course](https://hemberg-lab.github.io/scRNA.seq.course/index.html)
-has an [overview of five pseudotime algorithms](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html#pseudotime-analysis)
-with usage examples.
+[Bacher and Kendziorski 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y), [Trapnell 2015](http://genome.cshlp.org/content/25/10/1491.full), [Tanay and Regev 2017](http://www.nature.com/nature/journal/v541/n7637/full/nature21350.html) and [Moon et al. 2017](https://doi.org/10.1016/j.coisb.2017.12.008) provide a more comprehensive overview of single-cell RNA-seq and the pseudotime estimation problem.
+[Cannoodt et al. 2016](http://onlinelibrary.wiley.com/wol1/doi/10.1002/eji.201646347/abstract) reviews pseudotime inference algorithms.
+[Pablo Cordero's blog post](http://hyperparameter.space/blog/a-single-cell-journey-from-mechanistic-to-descriptive-modeling-and-back-again/) discusses why it is hard to recover the correct dynamics of a system from single-cell data. OMICtools has compiled a more general list of methods for single-cell RNA-seq https://omictools.com/single-cell-rna-seq-category.
+The Hemberg lab [single-cell RNA-seq course](https://hemberg-lab.github.io/scRNA.seq.course/index.html) has an [overview of five pseudotime algorithms](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html#pseudotime-analysis) with usage examples.
 
 
 ## Choosing a method
 
 Some of the distinguishing factors among algorithms include:
-- Use of prior knowledge such as capture times (DeLorean) or switch-like marker
-genes (Ouija)
-- Modeling specific types of biological processes such as branching processes
-in differentiation (multiple methods) or cyclic processes (Oscope)
-- Return a single pseudotime or a posterior distribution over pseudotimes
-for each cell
-- Perform additional analyses after inferring pseudotimes such as regulatory
-network inference or identifying differentially expressed genes over pseudotime
+- Use of prior knowledge such as capture times (DeLorean) or switch-like marker genes (Ouija)
+- Modeling specific types of biological processes such as branching processes in differentiation (multiple methods) or cyclic processes (Oscope)
+- Return a single pseudotime or a posterior distribution over pseudotimes for each cell
+- Perform additional analyses after inferring pseudotimes such as regulatory network inference or identifying differentially expressed genes over pseudotime
 
-[Saelens et al. 2018](https://doi.org/10.1101/276907) performed a comprehensive
-evaluation of 29 different single-cell trajectory inference methods and discuss
-the different types of algorithms in more detail.  They benchmark both
-quantitative performance and assess software quality.  See their
-[GitHub repository](https://github.com/dynverse/dynverse) as well.
+[Saelens et al. 2018](https://doi.org/10.1101/276907) performed a comprehensive evaluation of 29 different single-cell trajectory inference methods and discuss the different types of algorithms in more detail.
+They benchmark both quantitative performance and assess software quality.
+See their [GitHub repository](https://github.com/dynverse/dynverse) as well.
 
 ## Algorithms
 
@@ -385,7 +356,7 @@ Manuscript: [Quantifying Waddington's epigenetic landscape: a comparison of sing
 
 Manuscript: [Machine learning methods to reverse engineer dynamic gene regulatory networks governing cell state transitions](https://doi.org/10.1101/264671)
 
-### DensityPath 
+### DensityPath
 
 Software: https://github.com/ucasdp/DensityPath
 
