@@ -300,7 +300,9 @@ Manuscript: https://doi.org/10.1101/155028
 
 ### WADDINGTON-OT
 
-Manuscript: https://doi.org/10.1101/191056
+Software: https://pypi.org/project/wot/
+
+Manuscript: [Reconstruction of developmental landscapes by optimal-transport analysis of single-cell gene expression sheds light on cellular reprogramming](https://doi.org/10.1101/191056)
 
 ### pseudodynamics
 
