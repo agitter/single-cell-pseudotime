@@ -47,122 +47,123 @@ See their [GitHub repository](https://github.com/dynverse/dynverse) as well.
 ### Monocle / Monocle 2 / Census
 Software: https://bioconductor.org/packages/release/bioc/html/monocle.html
 
-Monocle manuscript: http://www.nature.com/nbt/journal/v32/n4/full/nbt.2859.html
+Monocle manuscript: [The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells](https://doi.org/10.1038/nbt.2859)
 
-Census manuscript: http://doi.org/10.1038/nmeth.4150
+Census manuscript: [Single-cell mRNA quantification and differential analysis with Census](https://doi.org/10.1038/nmeth.4150)
 
-Monocle 2 manuscript: https://doi.org/10.1101/110668
+Monocle 2 manuscript: [Reversed graph embedding resolves complex single-cell trajectories](https://doi.org/10.1038/nmeth.4402)
 
 ### Wanderlust / Cycler / Wishbone
 Wanderlust software: http://www.c2b2.columbia.edu/danapeerlab/html/wanderlust.html
 
-Wanderlust manuscript: http://www.cell.com/cell/abstract/S0092-8674(14)00471-1
+Wanderlust manuscript: [Single-Cell Trajectory Detection Uncovers Progression and Regulatory Coordination in Human B Cell Development](https://doi.org/10.1016/j.cell.2014.04.005)
 
 Cycler software: http://www.cellcycler.org/
 
-Cycler manuscript: http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3545.html
+Cycler manuscript: [Trajectories of cell-cycle progression from fixed cell populations](https://doi.org/10.1038/nmeth.3545)
 
 Wishbone software: http://www.c2b2.columbia.edu/danapeerlab/html/wishbone.html
 
-Wishbone manuscript: http://www.nature.com/nbt/journal/v34/n6/full/nbt.3569.html
+Wishbone manuscript: [Wishbone identifies bifurcating developmental trajectories from single-cell data](https://doi.org/10.1038/nbt.3569)
 
 ### SCUBA
 Software: https://github.com/gcyuan/SCUBA
 
-Manuscript: http://www.pnas.org/content/111/52/E5643.abstract
+Manuscript: [Bifurcation analysis of single-cell gene expression data reveals epigenetic landscape](https://doi.org/10.1073/pnas.1408993111)
 
 ### Oscope
 Software: https://www.biostat.wisc.edu/~kendzior/OSCOPE/
 
-Manuscript: http://www.nature.com/nmeth/journal/v12/n10/full/nmeth.3549.html
+Manuscript: [Oscope identifies oscillatory genes in unsynchronized single-cell RNA-seq experiments](https://doi.org/10.1038/nmeth.3549)
 
 ### Diffusion maps / destiny
 Diffusion maps software: https://www.helmholtz-muenchen.de/icb/research/groups/machine-learning/projects/single-cell-diffusion-map/index.html
 
-Diffusion maps manuscripts: http://www.nature.com/nbt/journal/v33/n3/full/nbt.3154.html and http://bioinformatics.oxfordjournals.org/content/31/18/2989.abstract
+Diffusion maps manuscripts: [Decoding the regulatory network of early blood development from single-cell gene expression measurements](https://doi.org/10.1038/nbt.3154) and [Diffusion maps for high-dimensional single-cell analysis of differentiation data](https://doi.org/10.1093/bioinformatics/btv325)
 
 destiny software: http://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/destiny/index.html
 
-destiny manuscript: http://bioinformatics.oxfordjournals.org/content/32/8/1241.full
+destiny manuscript: [destiny: diffusion maps for large-scale single-cell data in R](https://doi.org/10.1093/bioinformatics/btv715)
 
 ### DeLorean
 Software: https://github.com/JohnReid/DeLorean
 
-Manuscript: http://bioinformatics.oxfordjournals.org/content/early/2016/06/16/bioinformatics.btw372.abstract
+Manuscript: [Pseudotime estimation: deconfounding single cell time series](https://doi.org/10.1093/bioinformatics/btw372)
 
 ### Waterfall
-Manuscript: http://www.cell.com/cell-stem-cell/abstract/S1934-5909(15)00312-4
+Manuscript: [Single-Cell RNA-Seq with Waterfall Reveals Molecular Cascades underlying Adult Neurogenesis](https://doi.org/10.1016/j.stem.2015.07.013)
 
 ### Embeddr
 Software: https://github.com/kieranrcampbell/embeddr
 
-Manuscript: http://biorxiv.org/content/early/2015/09/18/027219
+Manuscript: [Laplacian eigenmaps and principal curves for high resolution pseudotemporal ordering of single-cell RNA-seq profiles](https://doi.org/10.1101/027219)
 
 ### GP-LVM and pseudogp
 GP-LVM software: https://github.com/kieranrcampbell/gpseudotime
 
-GP-LVM manuscript: http://biorxiv.org/content/early/2015/09/15/026872
+GP-LVM manuscript: [Bayesian Gaussian Process Latent Variable Models for pseudotime inference in single-cell RNA-seq data](https://doi.org/10.1101/026872)
 
 pseudogp software: https://github.com/kieranrcampbell/pseudogp
 
-pseudogp manuscript: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005212
+pseudogp manuscript: [Order Under Uncertainty: Robust Differential Expression Analysis Using Probabilistic Models for Pseudotime Inference](https://doi.org/10.1371/journal.pcbi.1005212)
 
 ### GP-LVM
 Analysis code: https://github.com/Teichlab/spectrum-of-differentiation-supplements
 
-Manuscript: http://www.cell.com/cell-reports/abstract/S2211-1247(15)01538-7
+Manuscript: [Single-Cell RNA-Sequencing Reveals a Continuous Spectrum of Differentiation in Hematopoietic Cells](https://doi.org/10.1016/j.celrep.2015.12.082)
 
 ### SLICER
 Software: https://github.com/jw156605/SLICER
 
-Manuscript: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0975-3
+Manuscript: [SLICER: inferring branched, nonlinear cellular trajectories from single cell RNA-seq data](https://doi.org/10.1186/s13059-016-0975-3)
 
 ### TSCAN
 Software: https://github.com/zji90/TSCAN
 
-Manuscript: http://nar.oxfordjournals.org/content/early/2016/05/13/nar.gkw430.abstract
+Manuscript: [TSCAN: Pseudo-time reconstruction and evaluation in single-cell RNA-seq analysis](https://doi.org/10.1093/nar/gkw430)
 
 ### SCOUP
 Software: https://github.com/hmatsu1226/SCOUP
 
-Manuscript: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1109-3
+Manuscript: [SCOUP: a probabilistic model based on the Ornstein–Uhlenbeck process to analyze single-cell expression data during differentiation](https://doi.org/10.1186/s12859-016-1109-3)
 
 ### Topslam
 Software: https://github.com/mzwiessele/topslam
 
-Manuscript: http://biorxiv.org/content/early/2016/06/08/057778
+Manuscript: [Topslam: Waddington Landscape Recovery for Single Cell Experiments
+](https://doi.org/10.1101/057778)
 
 ### Ouija
-Software: https://github.com/kieranrcampbell/ouija
+Software: https://github.com/kieranrcampbell/ouija and http://www.github.com/kieranrcampbell/ouijaflow
 
-Manuscript: http://biorxiv.org/content/early/2016/06/23/060442
+Manuscript: [Ouija: Incorporating prior knowledge in single-cell trajectory learning using Bayesian nonlinear factor analysis](https://doi.org/10.1101/060442)
 
 ### Slingshot
 Software: https://github.com/kstreet13/slingshot
 
 Extended vignette: https://github.com/drisso/bioc2016singlecell/tree/master/vignettes
 
-Manuscript: http://biorxiv.org/content/early/2017/04/19/128843
+Manuscript: [Slingshot: Cell lineage and pseudotime inference for single-cell transcriptomics](https://doi.org/10.1101/128843)
 
-Workflow manuscript: http://dx.doi.org/10.12688/f1000research.12122.1
+Workflow manuscript: [Bioconductor workflow for single-cell RNA sequencing: Normalization, dimensionality reduction, clustering, and lineage inference](https://doi.org/10.12688/f1000research.12122.1)
 
 ### GPfates
 
 Software: https://github.com/Teichlab/GPfates
 
-Manuscript: http://biorxiv.org/content/early/2016/09/13/074971
+Manuscript: [Temporal mixture modelling of single-cell RNA-seq data resolves a CD4+ T cell fate bifurcation](https://doi.org/10.1101/074971)
 
 ### SCIMITAR
 
 Software: https://github.com/dimenwarper/scimitar
 
-Manuscript: http://biorxiv.org/content/early/2016/08/18/070151
+Manuscript: [Tracing co-regulatory network dynamics in noisy, single-cell transcriptome trajectories](https://doi.org/10.1101/070151)
 
 ### WaveCrest
 
 Software: https://github.com/lengning/WaveCrest
 
-Manuscript: http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1033-x
+Manuscript: [Single-cell RNA-seq reveals novel regulators of human embryonic stem cell differentiation to definitive endoderm](https://doi.org/10.1186/s13059-016-1033-x)
 
 ### LEAP
 
@@ -172,79 +173,79 @@ Software: https://cran.r-project.org/web/packages/LEAP/index.html
 
 Software: http://bioconductor.org/packages/release/bioc/html/cellTree.html
 
-Manuscript: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1175-6
+Manuscript: [CellTree: an R/bioconductor package to infer the hierarchical structure of cell populations from single-cell RNA-seq data](https://doi.org/10.1186/s12859-016-1175-6)
 
 ### Bayesian hierarchical mixture of factor analysers (MFA)
 
 Software: http://www.github.com/kieranrcampbell/mfa
 
-Manuscript: http://doi.org/10.12688/wellcomeopenres.11087.1
-
-Preprint: http://biorxiv.org/content/early/2016/09/21/076547
+Manuscript: [Probabilistic modeling of bifurcations in single-cell gene expression data using a Bayesian mixture of factor analyzers](http://doi.org/10.12688/wellcomeopenres.11087.1)
 
 ### Mpath
 
 Software: https://github.com/JinmiaoChenLab/Mpath
 
-Manuscript: http://www.nature.com/ncomms/2016/160630/ncomms11988/full/ncomms11988.html
+Manuscript: [Mpath maps multi-branching single-cell trajectories revealing progenitor cell progression during development](https://doi.org/10.1038/ncomms11988)
 
 ### SCORPIUS
 
 Software: https://github.com/rcannood/SCORPIUS
 
-Manuscript: http://biorxiv.org/content/early/2016/10/06/079509
+Manuscript: [SCORPIUS improves trajectory inference and identifies novel modules in dendritic cell development](https://doi.org/10.1101/079509)
 
 ### SCODE
 
 Software: https://github.com/hmatsu1226/SCODE
 
-Manuscript: http://biorxiv.org/content/early/2016/11/22/088856
+Manuscript: [SCODE: an efficient regulatory network inference algorithm from single-cell RNA-Seq during differentiation](https://doi.org/10.1093/bioinformatics/btx194)
 
 ### switchde
 
 Software: https://bioconductor.org/packages/release/bioc/html/switchde.html
 
-Manuscript: https://doi.org/10.1093/bioinformatics/btw798
+Manuscript: [switchde: inference of switch-like differential expression along single-cell trajectories](https://doi.org/10.1093/bioinformatics/btw798)
 
 ### MAGIC
 
 Software: https://github.com/pkathail/magic/
 
-Manuscript: https://doi.org/10.1101/111591
+Manuscript: [MAGIC: A diffusion-based imputation method reveals gene-gene interactions in single-cell RNA-sequencing data](https://doi.org/10.1101/111591)
 
 ### PHATE
 
-Software: https://github.com/SmitaKrishnaswamy/PHATE
+Software: https://github.com/KrishnaswamyLab/PHATE
 
-Manuscript: https://doi.org/10.1101/120378
+Manuscript: [Visualizing Transitions and Structure for High Dimensional Data Exploration
+](https://doi.org/10.1101/120378)
 
 ### SOMSC
 
-Manuscript: https://doi.org/10.1101/124693
+Manuscript: [SOMSC: Self-Organization-Map for High-Dimensional Single-Cell Data of Cellular States and Their Transitions](https://doi.org/10.1101/124693)
 
 ### TASIC
 
 Software: https://www.andrew.cmu.edu/user/sabrinar/TASIC
 
-Manuscript: https://doi.org/10.1093/bioinformatics/btx173
+Manuscript: [TASIC: determining branching models from time series single cell data](https://doi.org/10.1093/bioinformatics/btx173)
 
 ### FORKS
 
 Software: https://github.com/macsharma/FORKS
 
-Manuscript: https://doi.org/10.1101/132811
+Manuscript: [FORKS: Finding Orderings Robustly using K-means and Steiner trees](https://doi.org/10.1101/132811)
 
 ### UNCURL
 
-Software: https://github.com/mukhes3/UNCURL_release
+Software: https://github.com/yjzhang/uncurl_python and https://github.com/mukhes3/UNCURL_release
 
-Manuscript: https://doi.org/10.1101/142398
+Manuscript: [Scalable preprocessing for sparse scRNA-seq data exploiting prior knowledge
+](https://doi.org/10.1101/142398)
 
 ### reCAT
 
 Software: https://github.com/tinglab/reCAT
 
-Manuscript: https://doi.org/10.1038/s41467-017-00039-z
+Manuscript: [Reconstructing cell cycle pseudo time-series via single-cell transcriptome data](https://doi.org/10.1038/s41467-017-00039-z)
 
 ### PhenoPath
 
@@ -256,19 +257,19 @@ Manuscript: [Uncovering pseudotemporal trajectories with covariates from single 
 
 Software: https://github.com/ManchesterBioinference/BranchedGP
 
-Manuscript: https://doi.org/10.1101/166868
+Manuscript: [BGP: Branched Gaussian processes for identifying gene-specific branching dynamics in single cell data](https://doi.org/10.1101/166868)
 
 ### Branch-recombinant Gaussian Processes
 
 Software: https://github.com/cap76/BranchingGPs
 
-Manuscript: https://doi.org/10.1101/167684
+Manuscript: [Nonparametric Bayesian inference of transcriptional branching and recombination identifies regulators of early human germ cell development](https://doi.org/10.1101/167684)
 
 ### MATCHER
 
 Software: https://github.com/jw156605/MATCHER and https://pypi.python.org/pypi/pymatcher
 
-Manuscript: https://doi.org/10.1186/s13059-017-1269-0
+Manuscript: [MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics](https://doi.org/10.1186/s13059-017-1269-0)
 
 ### SoptSC
 
@@ -296,7 +297,8 @@ Manuscript: [Scanpy for analysis of large-scale single-cell gene expression data
 
 Software: https://github.com/roshan9128/tides
 
-Manuscript: https://doi.org/10.1101/155028
+Manuscript: [Learning Edge Rewiring in EMT from Single Cell Data
+](https://doi.org/10.1101/155028)
 
 ### WADDINGTON-OT
 
@@ -378,7 +380,8 @@ Website: http://stream.pinellolab.org/
 
 ### Cicero
 
-Manuscript: https://doi.org/10.1101/155473
+Manuscript: [Chromatin accessibility dynamics of myogenesis at single cell resolution
+](https://doi.org/10.1101/155473)
 
 ### Effects of imputation on cell ordering
 
