@@ -10,6 +10,7 @@ Some related methods not specifically designed for RNA-seq (e.g. mass cytometry)
 The list also includes methods that are specifically designed to take pseudotemporal data as input.
 
 The initial list was created by Anthony Gitter, but pull requests are very welcome.
+Thank you to the other [contributors](https://github.com/agitter/single-cell-pseudotime/graphs/contributors).
 
 
 ## Problem overview
