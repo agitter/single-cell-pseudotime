@@ -386,6 +386,12 @@ Manuscript: [STREAM: Single-cell Trajectories Reconstruction, Exploration And Ma
 
 Website: http://stream.pinellolab.org/
 
+### HopLand
+
+Software: https://github.com/NetLand-NTU/HopLand
+
+Manuscript: [HopLand: single-cell pseudotime recovery using continuous Hopfield network-based modeling of Waddington’s epigenetic landscape](https://doi.org/10.1093/bioinformatics/btx232)
+
 ## Related topics
 
 ### Cicero
