@@ -318,6 +318,8 @@ Manuscript: [Graph abstraction reconciles clustering with trajectory inference t
 
 ### GPseudoRank
 
+Software: https://github.com/magStra/GPseudoRank
+
 Manuscript: [GPseudoRank: MCMC for sampling from posterior distributions of pseudo-orderings using Gaussian processes](https://doi.org/10.1101/211417)
 
 ### FateID
