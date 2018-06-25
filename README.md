@@ -27,7 +27,8 @@ Dimension reduction sometimes relies on knowledge of important marker genes and 
 
 [Bacher and Kendziorski 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y), [Trapnell 2015](http://genome.cshlp.org/content/25/10/1491.full), [Tanay and Regev 2017](http://www.nature.com/nature/journal/v541/n7637/full/nature21350.html) and [Moon et al. 2017](https://doi.org/10.1016/j.coisb.2017.12.008) provide a more comprehensive overview of single-cell RNA-seq and the pseudotime estimation problem.
 [Cannoodt et al. 2016](http://onlinelibrary.wiley.com/wol1/doi/10.1002/eji.201646347/abstract) reviews pseudotime inference algorithms.
-[Pablo Cordero's blog post](http://hyperparameter.space/blog/a-single-cell-journey-from-mechanistic-to-descriptive-modeling-and-back-again/) discusses why it is hard to recover the correct dynamics of a system from single-cell data. OMICtools has compiled a more general list of methods for single-cell RNA-seq https://omictools.com/single-cell-rna-seq-category.
+[Pablo Cordero's blog post](http://hyperparameter.space/blog/a-single-cell-journey-from-mechanistic-to-descriptive-modeling-and-back-again/) discusses why it is hard to recover the correct dynamics of a system from single-cell data.
+For more general lists of methods for single-cell RNA-seq see [OMICtools](https://omictools.com/single-cell-rna-seq-category), [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell), and [scRNA-tools](https://www.scrna-tools.org/).
 The Hemberg lab [single-cell RNA-seq course](https://hemberg-lab.github.io/scRNA.seq.course/index.html) has an [overview of five pseudotime algorithms](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html#pseudotime-analysis) with usage examples.
 
 
