@@ -146,7 +146,7 @@ Manuscript: [Topslam: Waddington Landscape Recovery for Single Cell Experiments
 ### Ouija
 Software: https://github.com/kieranrcampbell/ouija and http://www.github.com/kieranrcampbell/ouijaflow
 
-Manuscript: [Ouija: Incorporating prior knowledge in single-cell trajectory learning using Bayesian nonlinear factor analysis](https://doi.org/10.1101/060442)
+Manuscript: [A descriptive marker gene approach to single-cell pseudotime inference](https://doi.org/10.1093/bioinformatics/bty498)
 
 ### Slingshot
 Software: https://github.com/kstreet13/slingshot
