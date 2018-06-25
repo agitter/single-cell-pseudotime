@@ -260,7 +260,7 @@ Manuscript: https://doi.org/10.1101/166868
 
 ### Branch-recombinant Gaussian Processes
 
-Software: https://github.com/cap76/BranchingGPs (not yet available as of latest commit)
+Software: https://github.com/cap76/BranchingGPs
 
 Manuscript: https://doi.org/10.1101/167684
 
