@@ -396,6 +396,12 @@ Manuscript: [HopLand: single-cell pseudotime recovery using continuous Hopfield 
 
 Manuscript: [Dynamic Distribution Decomposition for Single-Cell Snapshot Time Series Identifies Subpopulations and Trajectories during iPSC Reprogramming](https://doi.org/10.1101/367789)
 
+### Continuous state HMMs 
+
+Software: https://github.com/jessica1338/CSHMM-for-time-series-scRNA-Seq
+
+Manuscript: [Continuous State HMMs for Modeling Time Series Single Cell RNA-Seq Data](https://doi.org/10.1101/380568)
+
 ## Related topics
 
 ### Cicero
