@@ -402,6 +402,12 @@ Software: https://github.com/jessica1338/CSHMM-for-time-series-scRNA-Seq
 
 Manuscript: [Continuous State HMMs for Modeling Time Series Single Cell RNA-Seq Data](https://doi.org/10.1101/380568)
 
+### Palantir
+
+Software: https://github.com/dpeerlab/Palantir/
+
+Manuscript: [Palantir characterizes cell fate continuities in human hematopoiesis](https://doi.org/10.1101/385328)
+
 ## Related topics
 
 ### Cicero
