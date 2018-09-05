@@ -433,6 +433,6 @@ Manuscript: [Alignment of single-cell trajectories to compare cellular expressio
 
 ### CONFESS
 
-Software: http: //bioconductor.org/packages/release/bioc/html/CONFESS.html
+Software: http://bioconductor.org/packages/release/bioc/html/CONFESS.html
 
 Manuscript: [CONFESS: Fluorescence-based single-cell ordering in R](https://doi.org/10.1101/407932)
