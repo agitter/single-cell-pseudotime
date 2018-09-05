@@ -430,3 +430,9 @@ Manuscript: [PROSSTT: probabilistic simulation of single-cell RNA-seq data for c
 Software: https://github.com/shenorrLab/cellAlign
 
 Manuscript: [Alignment of single-cell trajectories to compare cellular expression dynamics](https://doi.org/10.1038/nmeth.4628)
+
+### CONFESS
+
+Software: http: //bioconductor.org/packages/release/bioc/html/CONFESS.html
+
+Manuscript: [CONFESS: Fluorescence-based single-cell ordering in R](https://doi.org/10.1101/407932)
