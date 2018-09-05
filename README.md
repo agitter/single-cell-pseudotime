@@ -267,7 +267,7 @@ Manuscript: [Uncovering pseudotemporal trajectories with covariates from single 
 
 Software: https://github.com/ManchesterBioinference/BranchedGP
 
-Manuscript: [BGP: Branched Gaussian processes for identifying gene-specific branching dynamics in single cell data](https://doi.org/10.1101/166868)
+Manuscript: [BGP: identifying gene-specific branching dynamics from single-cell data with a branching Gaussian process](https://doi.org/10.1186/s13059-018-1440-2)
 
 ### Branch-recombinant Gaussian Processes
 
