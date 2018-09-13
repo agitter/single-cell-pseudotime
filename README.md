@@ -68,8 +68,6 @@ Wanderlust software: http://www.c2b2.columbia.edu/danapeerlab/html/wanderlust.ht
 
 Wanderlust manuscript: [Single-Cell Trajectory Detection Uncovers Progression and Regulatory Coordination in Human B Cell Development](https://doi.org/10.1016/j.cell.2014.04.005)
 
-Cycler software: http://www.cellcycler.org/
-
 Cycler manuscript: [Trajectories of cell-cycle progression from fixed cell populations](https://doi.org/10.1038/nmeth.3545)
 
 Wishbone software: http://www.c2b2.columbia.edu/danapeerlab/html/wishbone.html
