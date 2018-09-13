@@ -1,4 +1,5 @@
 # Single-cell RNA-seq pseudotime estimation algorithms
+[![Build Status](https://travis-ci.org/agitter/single-cell-pseudotime.svg?branch=master)](https://travis-ci.org/agitter/single-cell-pseudotime)
 
 Single cells, many algorithms.
 The goal of this page is to catalog the many algorithms that estimate pseudotimes for cells based on their gene expression levels.
