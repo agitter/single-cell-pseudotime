@@ -1,5 +1,6 @@
 # Single-cell RNA-seq pseudotime estimation algorithms
 [![Build Status](https://travis-ci.org/agitter/single-cell-pseudotime.svg?branch=master)](https://travis-ci.org/agitter/single-cell-pseudotime)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1297422.svg)](https://doi.org/10.5281/zenodo.1297422)
 
 Single cells, many algorithms.
 The goal of this page is to catalog the many algorithms that estimate pseudotimes for cells based on their gene expression levels.
@@ -15,7 +16,6 @@ Thank you to the other [contributors](https://github.com/agitter/single-cell-pse
 
 
 ## Citation
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1297422.svg)](https://doi.org/10.5281/zenodo.1297422)
 
 Anthony Gitter. Single-cell RNA-seq pseudotime estimation algorithms. 2018.
 doi:10.5281/zenodo.1297422
