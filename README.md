@@ -87,11 +87,9 @@ Software: https://www.biostat.wisc.edu/~kendzior/OSCOPE/
 Manuscript: [Oscope identifies oscillatory genes in unsynchronized single-cell RNA-seq experiments](https://doi.org/10.1038/nmeth.3549)
 
 ### Diffusion maps / destiny
-Diffusion maps software: https://www.helmholtz-muenchen.de/icb/research/groups/machine-learning/projects/single-cell-diffusion-map/index.html
+destiny software: http://bioconductor.org/packages/release/bioc/html/destiny.html
 
 Diffusion maps manuscripts: [Decoding the regulatory network of early blood development from single-cell gene expression measurements](https://doi.org/10.1038/nbt.3154) and [Diffusion maps for high-dimensional single-cell analysis of differentiation data](https://doi.org/10.1093/bioinformatics/btv325)
-
-destiny software: http://www.helmholtz-muenchen.de/icb/research/groups/quantitative-single-cell-dynamics/software/destiny/index.html
 
 destiny manuscript: [destiny: diffusion maps for large-scale single-cell data in R](https://doi.org/10.1093/bioinformatics/btv715)
 
