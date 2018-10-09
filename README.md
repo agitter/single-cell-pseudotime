@@ -408,6 +408,12 @@ Software: https://github.com/dpeerlab/Palantir/
 
 Manuscript: [Palantir characterizes cell fate continuities in human hematopoiesis](https://doi.org/10.1101/385328)
 
+### Trajectory inference Based on SNP information
+
+Software: https://github.com/phoenixding/tbsp
+
+Manuscript: [Cell lineage inference from SNP and scRNA-Seq data](https://doi.org/10.1101/401943)
+
 ## Related topics
 
 ### Cicero
