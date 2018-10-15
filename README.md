@@ -412,6 +412,12 @@ Software: https://github.com/phoenixding/tbsp
 
 Manuscript: [Cell lineage inference from SNP and scRNA-Seq data](https://doi.org/10.1101/401943)
 
+### t-Distributed Gaussian Process Latent Variable Model
+
+Software: https://github.com/architverma1/tGPLVM
+
+Manuscript: [A robust nonlinear low-dimensional manifold for single cell RNA-seq data](https://doi.org/10.1101/443044)
+
 ## Related topics
 
 ### Cicero
