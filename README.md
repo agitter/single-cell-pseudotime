@@ -451,4 +451,8 @@ Manuscript: [CONFESS: Fluorescence-based single-cell ordering in R](https://doi.
 
 Software: https://www.cell.com/cms/10.1016/j.cels.2018.07.006/attachment/2b57ebff-a502-4819-b8ed-8a87d17a4ae7/mmc4.zip
 
-Manuscript: https://doi.org/10.1016/j.cels.2018.07.006
+Manuscript: [Aligning Single-Cell Developmental and Reprogramming Trajectories Identifies Molecular Determinants of Myogenic Reprogramming Outcome](https://doi.org/10.1016/j.cels.2018.07.006)
+
+### ImageAEOT
+
+Manuscript: [Autoencoder and Optimal Transport to Infer Single-Cell Trajectories of Biological Processes](https://doi.org/10.1101/455469)
