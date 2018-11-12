@@ -422,8 +422,7 @@ Manuscript: [A robust nonlinear low-dimensional manifold for single cell RNA-seq
 
 ### Cicero
 
-Manuscript: [Chromatin accessibility dynamics of myogenesis at single cell resolution
-](https://doi.org/10.1101/155473)
+Manuscript: [Chromatin accessibility dynamics of myogenesis at single cell resolution](https://doi.org/10.1101/155473)
 
 ### Effects of imputation on cell ordering
 
@@ -456,3 +455,9 @@ Manuscript: [Aligning Single-Cell Developmental and Reprogramming Trajectories I
 ### ImageAEOT
 
 Manuscript: [Autoencoder and Optimal Transport to Infer Single-Cell Trajectories of Biological Processes](https://doi.org/10.1101/455469)
+
+### RNA velocity
+
+Software: http://velocyto.org/
+
+Manuscript: [RNA velocity of single cells](https://doi.org/10.1038/s41586-018-0414-6)
