@@ -418,6 +418,12 @@ Software: https://github.com/architverma1/tGPLVM
 
 Manuscript: [A robust nonlinear low-dimensional manifold for single cell RNA-seq data](https://doi.org/10.1101/443044)
 
+### Sinova
+
+Software: https://github.com/bionova/sinova
+
+Manuscript: [Systematic Reconstruction of Molecular Cascades Regulating GP Development Using Single-Cell RNA-Seq](https://doi.org/10.1016/j.celrep.2016.04.043)
+
 ## Related topics
 
 ### Cicero
