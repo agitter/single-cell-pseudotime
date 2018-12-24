@@ -430,6 +430,12 @@ Software: Multiple repositories
 
 Manuscript: [Lineage tracing on transcriptional landscapes links state to fate during differentiation](https://doi.org/10.1101/467886)
 
+### CALISTA
+
+Software: https://github.com/CABSEL/CALISTA
+
+Manuscript: [CALISTA: Clustering And Lineage Inference in Single-Cell Transcriptional Analysis](https://doi.org/10.1101/257550)
+
 ## Related topics
 
 ### Cicero
