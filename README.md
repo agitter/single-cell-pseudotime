@@ -40,6 +40,7 @@ Dimension reduction sometimes relies on knowledge of important marker genes and 
 For more general lists of methods for single-cell RNA-seq see [OMICtools](https://omictools.com/single-cell-rna-seq-category), [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell), and [scRNA-tools](https://www.scrna-tools.org/).
 The Hemberg lab [single-cell RNA-seq course](https://hemberg-lab.github.io/scRNA.seq.course/index.html) has an [overview of five pseudotime algorithms](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html#pseudotime-analysis) with usage examples.
 
+Single-cell expression data have also inspired new methods for gene regulatory network reconstruction, as reviewed by [Fiers et al. 2018](https://doi.org/10.1093/bfgp/elx046) and [Todorov et al. 2018](https://doi.org/10.1007/978-1-4939-8882-2_10).
 
 ## Choosing a method
 
