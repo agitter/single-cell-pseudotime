@@ -424,6 +424,12 @@ Software: https://github.com/bionova/sinova
 
 Manuscript: [Systematic Reconstruction of Molecular Cascades Regulating GP Development Using Single-Cell RNA-Seq](https://doi.org/10.1016/j.celrep.2016.04.043)
 
+### Lineage tracing on transcriptional landscapes
+
+Software: Multiple repositories
+
+Manuscript: [Lineage tracing on transcriptional landscapes links state to fate during differentiation](https://doi.org/10.1101/467886)
+
 ## Related topics
 
 ### Cicero
