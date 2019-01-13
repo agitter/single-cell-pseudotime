@@ -480,3 +480,7 @@ Manuscript: [Autoencoder and Optimal Transport to Infer Single-Cell Trajectories
 Software: http://velocyto.org/
 
 Manuscript: [RNA velocity of single cells](https://doi.org/10.1038/s41586-018-0414-6)
+
+### devMap
+
+Manuscript: [High Resolution Comparison of Cancer-Related Developmental Processes Using Trajectory Alignment](https://doi.org/10.1101/469601)
