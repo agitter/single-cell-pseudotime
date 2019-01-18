@@ -484,3 +484,9 @@ Manuscript: [RNA velocity of single cells](https://doi.org/10.1038/s41586-018-04
 ### devMap
 
 Manuscript: [High Resolution Comparison of Cancer-Related Developmental Processes Using Trajectory Alignment](https://doi.org/10.1101/469601)
+
+### Trajan
+
+Software: https://github.com/canzarlab/Trajan
+
+Manuscript: [Dynamic pseudo-time warping of complex single-cell trajectories](https://doi.org/10.1101/522672)
