@@ -386,7 +386,7 @@ Software: https://github.com/pinellolab/stream
 
 Manuscript: [STREAM: Single-cell Trajectories Reconstruction, Exploration And Mapping of omics data](https://doi.org/10.1101/302554)
 
-Website: http://stream.pinellolab.org/
+Website: http://stream.pinellolab.partners.org/
 
 ### HopLand
 
