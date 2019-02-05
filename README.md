@@ -91,7 +91,9 @@ Manuscript: [Oscope identifies oscillatory genes in unsynchronized single-cell R
 ### Diffusion maps / destiny
 destiny software: http://bioconductor.org/packages/release/bioc/html/destiny.html
 
-Diffusion maps manuscripts: [Decoding the regulatory network of early blood development from single-cell gene expression measurements](https://doi.org/10.1038/nbt.3154) and [Diffusion maps for high-dimensional single-cell analysis of differentiation data](https://doi.org/10.1093/bioinformatics/btv325)
+Diffusion maps manuscript (a): [Decoding the regulatory network of early blood development from single-cell gene expression measurements](https://doi.org/10.1038/nbt.3154)
+
+Diffusion maps manuscript (b): [Diffusion maps for high-dimensional single-cell analysis of differentiation data](https://doi.org/10.1093/bioinformatics/btv325)
 
 destiny manuscript: [destiny: diffusion maps for large-scale single-cell data in R](https://doi.org/10.1093/bioinformatics/btv715)
 
