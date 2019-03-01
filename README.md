@@ -150,6 +150,12 @@ Software: https://github.com/kieranrcampbell/ouija and http://www.github.com/kie
 
 Manuscript: [A descriptive marker gene approach to single-cell pseudotime inference](https://doi.org/10.1093/bioinformatics/bty498)
 
+### CellTrails
+
+Sofware: http://bioconductor.org/packages/release/bioc/html/CellTrails.html
+
+Manuscript: [Transcriptional dynamics of hair-bundle morphogenesis revealed with CellTrails](https://10.1016/j.celrep.2018.05.002)
+
 ### Slingshot
 Software: https://github.com/kstreet13/slingshot
 
