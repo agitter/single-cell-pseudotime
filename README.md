@@ -58,7 +58,7 @@ See their [GitHub repository](https://github.com/dynverse/dynverse) as well.
 
 ## Algorithms
 
-### Monocle / Monocle 2 / Census
+### Monocle / Monocle 2 / Monocle 3/ Census
 Software: https://bioconductor.org/packages/release/bioc/html/monocle.html
 
 Monocle manuscript: [The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells](https://doi.org/10.1038/nbt.2859)
@@ -66,6 +66,8 @@ Monocle manuscript: [The dynamics and regulators of cell fate decisions are reve
 Census manuscript: [Single-cell mRNA quantification and differential analysis with Census](https://doi.org/10.1038/nmeth.4150)
 
 Monocle 2 manuscript: [Reversed graph embedding resolves complex single-cell trajectories](https://doi.org/10.1038/nmeth.4402)
+
+Monocle 3 manuscript: [The single-cell transcriptional landscape of mammalian organogenesis](https://doi.org/10.1038/s41586-019-0969-x)
 
 ### Wanderlust / Cycler / Wishbone
 Wanderlust software: http://www.c2b2.columbia.edu/danapeerlab/html/wanderlust.html
