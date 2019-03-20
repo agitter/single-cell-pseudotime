@@ -330,11 +330,11 @@ Software: https://github.com/theislab/pseudodynamics
 
 Manuscript: [Beyond pseudotime: Following T-cell maturation in single-cell RNAseq time series](https://doi.org/10.1101/219188)
 
-### Approximate graph abstraction
+### Partition-based graph abstraction
 
-Software: https://github.com/theislab/graph_abstraction
+Software: https://github.com/theislab/paga
 
-Manuscript: [Graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells](https://doi.org/10.1101/208819)
+Manuscript: [PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells](https://doi.org/10.1186/s13059-019-1663-x)
 
 ### GPseudoRank
 
