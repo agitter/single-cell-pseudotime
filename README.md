@@ -448,6 +448,10 @@ Software: https://github.com/CABSEL/CALISTA
 
 Manuscript: [CALISTA: Clustering And Lineage Inference in Single-Cell Transcriptional Analysis](https://doi.org/10.1101/257550)
 
+### TRACER
+
+Manuscript: [Mapping Lung Cancer Epithelial-Mesenchymal Transition States and Trajectories with Single-Cell Resolution](https://doi.org/10.1101/570341)
+
 ## Related topics
 
 ### Cicero
