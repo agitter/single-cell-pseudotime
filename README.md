@@ -416,7 +416,7 @@ Manuscript: [Continuous State HMMs for Modeling Time Series Single Cell RNA-Seq 
 
 Software: https://github.com/dpeerlab/Palantir/
 
-Manuscript: [Palantir characterizes cell fate continuities in human hematopoiesis](https://doi.org/10.1101/385328)
+Manuscript: [Palantir characterizes cell fate continuities in human hematopoiesis](https://doi.org/10.1038/s41587-019-0068-4)
 
 ### Trajectory inference Based on SNP information
 
