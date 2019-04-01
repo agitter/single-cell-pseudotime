@@ -51,9 +51,9 @@ Some of the distinguishing factors among algorithms include:
 - Return a single pseudotime or a posterior distribution over pseudotimes for each cell
 - Perform additional analyses after inferring pseudotimes such as regulatory network inference or identifying differentially expressed genes over pseudotime
 
-[Saelens et al. 2018](https://doi.org/10.1101/276907) performed a comprehensive evaluation of 29 different single-cell trajectory inference methods and discuss the different types of algorithms in more detail.
+[Saelens et al. 2019](https://doi.org/10.1038/s41587-019-0071-9) performed a comprehensive evaluation of 29 different single-cell trajectory inference methods and discuss the different types of algorithms in more detail.
 They benchmark both quantitative performance and assess software quality.
-See their [GitHub repository](https://github.com/dynverse/dynverse) as well.
+See their [website](https://dynverse.org/) and [GitHub repository](https://github.com/dynverse/dynverse) as well.
 [Tian et al. 2018](https://doi.org/10.1101/433102) also include trajectory inference algorithms in their single-cell RNA-seq benchmarking study.
 
 ## Algorithms
