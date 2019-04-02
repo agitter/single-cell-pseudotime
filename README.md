@@ -330,7 +330,7 @@ Manuscript: [Reconstruction of developmental landscapes by optimal-transport ana
 
 Software: https://github.com/theislab/pseudodynamics
 
-Manuscript: [Beyond pseudotime: Following T-cell maturation in single-cell RNAseq time series](https://doi.org/10.1101/219188)
+Manuscript: [Inferring population dynamics from single-cell RNA-sequencing time series data](https://doi.org/10.1038/s41587-019-0088-0)
 
 ### Partition-based graph abstraction
 
