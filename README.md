@@ -452,6 +452,12 @@ Manuscript: [CALISTA: Clustering And Lineage Inference in Single-Cell Transcript
 
 Manuscript: [Mapping Lung Cancer Epithelial-Mesenchymal Transition States and Trajectories with Single-Cell Resolution](https://doi.org/10.1101/570341)
 
+### psupertime
+
+Software: https://github.com/wmacnair/psupertime
+
+Manuscript: [psupertime: supervised pseudotime inference for single cell RNA-seq data with sequential labels](https://doi.org/10.1101/622001)
+
 ## Related topics
 
 ### Cicero
