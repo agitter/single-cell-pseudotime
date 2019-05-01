@@ -376,7 +376,7 @@ Manuscript: [Topographer Reveals Stochastic Dynamics of Cell Fate Decisions from
 
 ### Markov-Chain Entropy
 
-Manuscript: [Quantifying Waddington's epigenetic landscape: a comparison of single-cell potency measures](https://doi.org/10.1101/257220)
+Manuscript: [Quantifying Waddington's epigenetic landscape: a comparison of single-cell potency measures](https://doi.org/10.1093/bib/bby093)
 
 ### Microstates
 
