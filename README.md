@@ -464,6 +464,12 @@ Software: https://github.com/alexisboukouvalas/OscoNet
 
 Manuscript: [OscoNet: Inferring oscillatory gene networks](https://doi.org/10.1101/600049)
 
+### Cyclum
+
+Software: https://github.com/KChen-lab/cyclum
+
+Manuscript: [Latent periodic process inference from single-cell RNA-seq data](https://doi.org/10.1101/625566)
+
 ## Related topics
 
 ### Cicero
