@@ -530,5 +530,9 @@ Software: https://github.com/magStra/GPseudoClust
 
 Manuscript: [GPseudoClust: deconvolution of shared pseudo-trajectories at single-cell resolution](https://doi.org/10.1101/567115)
 
+### TRAjectory Differential Expression analysis for SEQuencing data (tradeSeq)
 
+Software: https://github.com/statOmics/tradeSeq
+
+Manuscript: [Trajectory-based differential expression analysis for single-cell sequencing data](https://doi.org/10.1101/623397)
 
