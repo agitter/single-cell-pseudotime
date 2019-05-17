@@ -38,7 +38,7 @@ Dimension reduction sometimes relies on knowledge of important marker genes and 
 [Cannoodt et al. 2016](http://onlinelibrary.wiley.com/wol1/doi/10.1002/eji.201646347/abstract) reviews pseudotime inference algorithms.
 [Pablo Cordero's blog post](http://hyperparameter.space/blog/a-single-cell-journey-from-mechanistic-to-descriptive-modeling-and-back-again/) discusses why it is hard to recover the correct dynamics of a system from single-cell data.
 For more general lists of methods for single-cell RNA-seq see [OMICtools](https://omictools.com/single-cell-rna-seq-category), [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell), and [scRNA-tools](https://www.scrna-tools.org/).
-The Hemberg lab [single-cell RNA-seq course](https://hemberg-lab.github.io/scRNA.seq.course/index.html) has an [overview of five pseudotime algorithms](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html#pseudotime-analysis) with usage examples.
+The Hemberg lab [single-cell RNA-seq course](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html) has an [overview of five pseudotime algorithms](https://scrnaseq-course.cog.sanger.ac.uk/website/biological-analysis.html#pseudotime-analysis) with usage examples.
 
 Single-cell expression data have also inspired new methods for gene regulatory network reconstruction, as reviewed by [Fiers et al. 2018](https://doi.org/10.1093/bfgp/elx046) and [Todorov et al. 2018](https://doi.org/10.1007/978-1-4939-8882-2_10).
 Several of these, such as [SINGE](https://doi.org/10.1101/534834), treat pseudotime annotations as time points and extend traditional time series network inference algorithms for single-cell data.
