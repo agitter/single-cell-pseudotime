@@ -41,7 +41,7 @@ For more general lists of methods for single-cell RNA-seq see [OMICtools](https:
 The Hemberg lab [single-cell RNA-seq course](https://hemberg-lab.github.io/scRNA.seq.course/index.html) has an [overview of five pseudotime algorithms](https://hemberg-lab.github.io/scRNA.seq.course/biological-analysis.html#pseudotime-analysis) with usage examples.
 
 Single-cell expression data have also inspired new methods for gene regulatory network reconstruction, as reviewed by [Fiers et al. 2018](https://doi.org/10.1093/bfgp/elx046) and [Todorov et al. 2018](https://doi.org/10.1007/978-1-4939-8882-2_10).
-Several of these, such as [SCINGE](https://doi.org/10.1101/534834), treat pseudotime annotations as time points and extend traditional time series network inference algorithms for single-cell data.
+Several of these, such as [SINGE](https://doi.org/10.1101/534834), treat pseudotime annotations as time points and extend traditional time series network inference algorithms for single-cell data.
 
 ## Choosing a method
 
@@ -524,9 +524,9 @@ Software: https://github.com/canzarlab/Trajan
 
 Manuscript: [Dynamic pseudo-time warping of complex single-cell trajectories](https://doi.org/10.1101/522672)
 
-### SCINGE
+### SINGE
 
-Software: https://github.com/gitter-lab/SCINGE
+Software: https://github.com/gitter-lab/SINGE
 
 Manuscript: [Network Inference with Granger Causality Ensembles on Single-Cell Transcriptomic Data](https://doi.org/10.1101/534834)
 
