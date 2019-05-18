@@ -542,3 +542,8 @@ Software: https://github.com/statOmics/tradeSeq
 
 Manuscript: [Trajectory-based differential expression analysis for single-cell sequencing data](https://doi.org/10.1101/623397)
 
+### CORGI
+
+Software: https://github.com/YutongWangUMich/corgi
+
+Manuscript: [A gene filter for comparative analysis of single-cell RNA-sequencing trajectory datasets](https://doi.org/10.1101/637488)
