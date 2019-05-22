@@ -42,6 +42,7 @@ The Hemberg lab [single-cell RNA-seq course](https://scrnaseq-course.cog.sanger.
 
 Single-cell expression data have also inspired new methods for gene regulatory network reconstruction, as reviewed by [Fiers et al. 2018](https://doi.org/10.1093/bfgp/elx046) and [Todorov et al. 2018](https://doi.org/10.1007/978-1-4939-8882-2_10).
 Several of these, such as [SINGE](https://doi.org/10.1101/534834), treat pseudotime annotations as time points and extend traditional time series network inference algorithms for single-cell data.
+[BEELINE](https://doi.org/10.1101/642926) benchmarks many of these specialized network inference methods.
 
 ## Choosing a method
 
@@ -547,3 +548,9 @@ Manuscript: [Trajectory-based differential expression analysis for single-cell s
 Software: https://github.com/YutongWangUMich/corgi
 
 Manuscript: [A gene filter for comparative analysis of single-cell RNA-sequencing trajectory datasets](https://doi.org/10.1101/637488)
+
+### BEELINE
+
+Software: https://github.com/murali-group/Beeline
+
+Manuscript: [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data](https://doi.org/10.1101/642926)
