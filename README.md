@@ -554,3 +554,9 @@ Manuscript: [A gene filter for comparative analysis of single-cell RNA-sequencin
 Software: https://github.com/murali-group/Beeline
 
 Manuscript: [Benchmarking algorithms for gene regulatory network inference from single-cell transcriptomic data](https://doi.org/10.1101/642926)
+
+### Dynamo
+
+Software: https://github.com/aristoteleo/dynamo-release
+
+Manuscript [Mapping Vector Field of Single Cells](https://doi.org/10.1101/696724)
