@@ -471,6 +471,12 @@ Software: https://github.com/KChen-lab/cyclum
 
 Manuscript: [Latent periodic process inference from single-cell RNA-seq data](https://doi.org/10.1101/625566)
 
+### MERLoT
+
+Software: https://github.com/soedinglab/merlot
+
+Manuscript: [Reconstructing complex lineage trees from scRNA-seq data using MERLoT](https://doi.org/10.1093/nar/gkz706)
+
 ## Related topics
 
 ### Cicero
