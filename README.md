@@ -477,6 +477,12 @@ Software: https://github.com/soedinglab/merlot
 
 Manuscript: [Reconstructing complex lineage trees from scRNA-seq data using MERLoT](https://doi.org/10.1093/nar/gkz706)
 
+### scVelo
+
+Software: https://scvelo.org
+
+Manuscript: [Generalizing RNA velocity to transient cell states through dynamical modeling](https://doi.org/10.1101/820936)
+
 ## Related topics
 
 ### Cicero
