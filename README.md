@@ -578,3 +578,9 @@ Manuscript: [Mapping Vector Field of Single Cells](https://doi.org/10.1101/69672
 Software: https://github.com/PayamDiba/SERGIO
 
 Manuscript: [A single-cell expression simulator guided by gene regulatory networks](https://doi.org/10.1101/716811)
+
+### GeneSwitches
+
+Software: https://geneswitches.ddnetbio.com/
+
+Manuscript: [GeneSwitches : Ordering gene-expression and functional events in single-cell experiments](https://doi.org/10.1101/832626)
