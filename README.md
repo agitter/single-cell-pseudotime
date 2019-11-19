@@ -483,6 +483,12 @@ Software: https://scvelo.org
 
 Manuscript: [Generalizing RNA velocity to transient cell states through dynamical modeling](https://doi.org/10.1101/820936)
 
+### Tempora
+
+Software: https://github.com/BaderLab/Tempora
+
+Manuscript: [Tempora: cell trajectory inference using time-series single-cell RNA sequencing data](https://doi.org/10.1101/846907)
+
 ## Related topics
 
 ### Cicero
