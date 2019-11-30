@@ -590,3 +590,9 @@ Manuscript: [A single-cell expression simulator guided by gene regulatory networ
 Software: https://geneswitches.ddnetbio.com/
 
 Manuscript: [GeneSwitches : Ordering gene-expression and functional events in single-cell experiments](https://doi.org/10.1101/832626)
+
+### CAPITAL
+
+Software: https://github.com/ykat0/capital
+
+Manuscript: [Alignment of time-course single-cell RNA-seq data with CAPITAL](https://doi.org/10.1101/859751)
