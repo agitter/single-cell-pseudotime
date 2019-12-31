@@ -489,6 +489,12 @@ Software: https://github.com/BaderLab/Tempora
 
 Manuscript: [Tempora: cell trajectory inference using time-series single-cell RNA sequencing data](https://doi.org/10.1101/846907)
 
+### CellCycleTRACER 
+
+Software: https://ibm.biz/cellcycletracer-aas
+
+Manuscript: [CellCycleTRACER accounts for cell cycle and volume in mass cytometry data](https://doi.org/10.1038/s41467-018-03005-5)
+
 ## Related topics
 
 ### Cicero
