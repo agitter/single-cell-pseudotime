@@ -495,6 +495,12 @@ Software: https://ibm.biz/cellcycletracer-aas
 
 Manuscript: [CellCycleTRACER accounts for cell cycle and volume in mass cytometry data](https://doi.org/10.1038/s41467-018-03005-5)
 
+### TrajectoryNet
+
+Software: https://github.com/krishnaswamylab/TrajectoryNet
+
+Manuscript: [TrajectoryNet: A Dynamic Optimal Transport Network for Modeling Cellular Dynamics](https://arxiv.org/abs/2002.04461)
+
 ## Related topics
 
 ### Cicero
