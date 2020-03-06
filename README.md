@@ -59,6 +59,9 @@ See their [website](https://dynverse.org/) and [GitHub repository](https://githu
 
 ## Algorithms
 
+### Temporal Reconstruction Algorithm
+Manuscript: [Reconstructing the temporal ordering of biological samples using microarray data](https://doi.org/10.1093/bioinformatics/btg081)
+
 ### Monocle / Monocle 2 / Monocle 3/ Census
 Software: https://bioconductor.org/packages/release/bioc/html/monocle.html
 
