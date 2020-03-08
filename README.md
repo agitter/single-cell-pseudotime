@@ -504,6 +504,12 @@ Software: https://github.com/krishnaswamylab/TrajectoryNet
 
 Manuscript: [TrajectoryNet: A Dynamic Optimal Transport Network for Modeling Cellular Dynamics](https://arxiv.org/abs/2002.04461)
 
+### redPATH
+
+Software: https://github.com/tinglab/redPATH
+
+Manuscript: [redPATH: Reconstructing the Pseudo Development Time of Cell Lineages in Single-Cell RNA-Seq Data and Applications in Cancer](https://doi.org/10.1101/2020.03.05.977686)
+
 ## Related topics
 
 ### Cicero
@@ -570,11 +576,11 @@ Software: https://github.com/magStra/GPseudoClust
 
 Manuscript: [GPseudoClust: deconvolution of shared pseudo-trajectories at single-cell resolution](https://doi.org/10.1101/567115)
 
-### TRAjectory Differential Expression analysis for SEQuencing data (tradeSeq)
+### tradeSeq
 
-Software: https://github.com/statOmics/tradeSeq
+Software: http://www.bioconductor.org/packages/release/bioc/html/tradeSeq.html
 
-Manuscript: [Trajectory-based differential expression analysis for single-cell sequencing data](https://doi.org/10.1101/623397)
+Manuscript: [Trajectory-based differential expression analysis for single-cell sequencing data](https://doi.org/10.1038/s41467-020-14766-3)
 
 ### CORGI
 
