@@ -510,6 +510,12 @@ Software: https://github.com/tinglab/redPATH
 
 Manuscript: [redPATH: Reconstructing the Pseudo Development Time of Cell Lineages in Single-Cell RNA-Seq Data and Applications in Cancer](https://doi.org/10.1101/2020.03.05.977686)
 
+### GraphDR and StructDR
+
+Software: https://github.com/jzthree/quasildr
+
+Manuscript: [An analytical framework for interpretable and generalizable 'quasilinear' single-cell data analysis](https://doi.org/10.1101/2020.04.12.022806)
+
 ## Related topics
 
 ### Cicero
