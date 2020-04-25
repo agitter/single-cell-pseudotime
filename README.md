@@ -623,3 +623,7 @@ Manuscript: [GeneSwitches : Ordering gene-expression and functional events in si
 Software: https://github.com/ykat0/capital
 
 Manuscript: [Alignment of time-course single-cell RNA-seq data with CAPITAL](https://doi.org/10.1101/859751)
+
+### Transcriptional uncertainty landscapes
+
+Manuscript: [Universality of cell differentiation trajectories revealed by a reconstruction of transcriptional uncertainty landscapes from single-cell transcriptomic data](https://doi.org/10.1101/2020.04.23.056069)
