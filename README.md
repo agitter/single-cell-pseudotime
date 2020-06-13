@@ -627,3 +627,7 @@ Manuscript: [Alignment of time-course single-cell RNA-seq data with CAPITAL](htt
 ### Transcriptional uncertainty landscapes
 
 Manuscript: [Universality of cell differentiation trajectories revealed by a reconstruction of transcriptional uncertainty landscapes from single-cell transcriptomic data](https://doi.org/10.1101/2020.04.23.056069)
+
+### Pseudo-Location
+
+Manuscript: [Pseudo-Location: A novel predictor for predicting pseudo-temporal gene expression patterns using spatial functional regression](https://doi.org/10.1101/2020.06.11.145565)
