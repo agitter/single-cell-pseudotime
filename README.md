@@ -516,6 +516,12 @@ Software: https://github.com/jzthree/quasildr
 
 Manuscript: [An analytical framework for interpretable and generalizable 'quasilinear' single-cell data analysis](https://doi.org/10.1101/2020.04.12.022806)
 
+### Pseudocell Tracer
+
+Software: https://github.com/akds/pseudocell
+
+Manuscript: [Inferring cellular trajectories from scRNA-seq using Pseudocell Tracer](https://doi.org/10.1101/2020.06.26.173179)
+
 ## Related topics
 
 ### Cicero
