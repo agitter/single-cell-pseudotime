@@ -637,3 +637,9 @@ Manuscript: [Universality of cell differentiation trajectories revealed by a rec
 ### Pseudo-Location
 
 Manuscript: [Pseudo-Location: A novel predictor for predicting pseudo-temporal gene expression patterns using spatial functional regression](https://doi.org/10.1101/2020.06.11.145565)
+
+### fishpond
+
+Software: http://bioconductor.org/packages/devel/bioc/html/fishpond.html and https://github.com/skvanburen/scUncertaintyPaperCode
+
+Manuscript: [Compression of quantification uncertainty for scRNA-seq counts](https://doi.org/10.1101/2020.07.06.189639)
