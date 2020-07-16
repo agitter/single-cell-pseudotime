@@ -643,3 +643,9 @@ Manuscript: [Pseudo-Location: A novel predictor for predicting pseudo-temporal g
 Software: http://bioconductor.org/packages/devel/bioc/html/fishpond.html and https://github.com/skvanburen/scUncertaintyPaperCode
 
 Manuscript: [Compression of quantification uncertainty for scRNA-seq counts](https://doi.org/10.1101/2020.07.06.189639)
+
+### scHOT
+
+Software: https://bioconductor.org/packages/scHOT
+
+Manuscript: [Investigating higher-order interactions in single-cell data with scHOT](https://doi.org/10.1038/s41592-020-0885-x)
