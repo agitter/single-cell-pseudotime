@@ -522,6 +522,12 @@ Software: https://github.com/akds/pseudocell
 
 Manuscript: [Inferring cellular trajectories from scRNA-seq using Pseudocell Tracer](https://doi.org/10.1101/2020.06.26.173179)
 
+### TinGa
+
+Software: https://github.com/Helena-todd/TinGa
+
+Manuscript: [TinGa: fast and flexible trajectory inference with Growing Neural Gas ](https://doi.org/10.1093/bioinformatics/btaa463)
+
 ## Related topics
 
 ### Cicero
