@@ -484,7 +484,7 @@ Manuscript: [Reconstructing complex lineage trees from scRNA-seq data using MERL
 
 Software: https://scvelo.org
 
-Manuscript: [Generalizing RNA velocity to transient cell states through dynamical modeling](https://doi.org/10.1101/820936)
+Manuscript: [Generalizing RNA velocity to transient cell states through dynamical modeling](https://doi.org/10.1038/s41587-020-0591-3)
 
 ### Tempora
 
