@@ -528,6 +528,12 @@ Software: https://github.com/Helena-todd/TinGa
 
 Manuscript: [TinGa: fast and flexible trajectory inference with Growing Neural Gas ](https://doi.org/10.1093/bioinformatics/btaa463)
 
+### scDEC
+
+Software: https://github.com/kimmo1019/scDEC
+
+Manuscript: [Simultaneous deep generative modeling and clustering of single cell genomic data](https://doi.org/10.1101/2020.08.17.254730)
+
 ## Related topics
 
 ### Cicero
