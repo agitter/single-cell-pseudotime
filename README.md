@@ -534,6 +534,12 @@ Software: https://github.com/kimmo1019/scDEC
 
 Manuscript: [Simultaneous deep generative modeling and clustering of single cell genomic data](https://doi.org/10.1101/2020.08.17.254730)
 
+### VeTra
+
+Software: https://github.com/wgzgithub/VeTra
+
+Manuscript: [VeTra: a new trajectory inference tool based on RNA velocity](https://doi.org/10.1101/2020.09.01.277095)
+
 ## Related topics
 
 ### Cicero
