@@ -667,3 +667,9 @@ Manuscript: [Compression of quantification uncertainty for scRNA-seq counts](htt
 Software: https://bioconductor.org/packages/scHOT
 
 Manuscript: [Investigating higher-order interactions in single-cell data with scHOT](https://doi.org/10.1038/s41592-020-0885-x)
+
+### PRESCIENT
+
+Software: https://github.com/gifford-lab/prescient
+
+Manuscript: [Generative modeling of single-cell population time series for inferring cell differentiation landscapes](https://doi.org/10.1101/2020.08.26.269332)
