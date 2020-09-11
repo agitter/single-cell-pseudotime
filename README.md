@@ -540,6 +540,12 @@ Software: https://github.com/wgzgithub/VeTra
 
 Manuscript: [VeTra: a new trajectory inference tool based on RNA velocity](https://doi.org/10.1101/2020.09.01.277095)
 
+### DTFLOW
+
+Software: https://github.com/statway/DTFLOW
+
+Manuscript: [DTFLOW: Inference and Visualization of Single-cell Pseudo-temporal Trajectories Using Diffusion Propagation](https://doi.org/10.1101/2020.09.10.290973)
+
 ## Related topics
 
 ### Cicero
