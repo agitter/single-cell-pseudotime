@@ -679,3 +679,7 @@ Manuscript: [Investigating higher-order interactions in single-cell data with sc
 Software: https://github.com/gifford-lab/prescient
 
 Manuscript: [Generative modeling of single-cell population time series for inferring cell differentiation landscapes](https://doi.org/10.1101/2020.08.26.269332)
+
+## Mathematics of RNA Velocity
+
+Manuscript: [On the Mathematics of RNA Velocity I: Theoretical Analysis](https://doi.org/10.1101/2020.09.19.304584)
