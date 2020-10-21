@@ -550,6 +550,12 @@ Manuscript: [DTFLOW: Inference and Visualization of Single-cell Pseudo-temporal 
 
 Manuscript: [Inference of multiple trajectories in single cell RNA-seq data from RNA velocity}(https://doi.org/10.1101/2020.09.30.321125)
 
+### CellRank
+
+Software: https://cellrank.org
+
+Manuscript: [CellRank for directed single-cell fate mapping](https://doi.org/10.1101/2020.10.19.345983)
+
 ## Related topics
 
 ### Cicero
