@@ -32,13 +32,15 @@ There are many ways to approach this problem, and major algorithmic steps that a
 - Reduce the dimension of the dataset
 - Find a smooth progression through the low dimensional data, assuming that cells that are nearby one another in the low dimensional space have similar expression levels because they are at similar points in to **A** to **B** process
 
-Dimension reduction sometimes relies on knowledge of important marker genes and sometimes uses the full gene expression matrix.  The trajectory through the low dimensional space can be identified using graph algorithms (e.g., minimum spanning tree or shortest path), principal curves, or probabilistic models (e.g., Gaussian process).
+Dimension reduction sometimes relies on knowledge of important marker genes and sometimes uses the full gene expression matrix.
+The trajectory through the low dimensional space can be identified using graph algorithms (e.g., minimum spanning tree or shortest path), principal curves, or probabilistic models (e.g., Gaussian process).
 
 [Bacher and Kendziorski 2016](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0927-y), [Trapnell 2015](http://genome.cshlp.org/content/25/10/1491.full), [Tanay and Regev 2017](http://www.nature.com/nature/journal/v541/n7637/full/nature21350.html), [Moon et al. 2017](https://doi.org/10.1016/j.coisb.2017.12.008), and [Tritschler et al. 2019](https://doi.org/10.1242/dev.170506) provide a more comprehensive overview of single-cell RNA-seq and the pseudotime estimation problem.
 [Cannoodt et al. 2016](http://onlinelibrary.wiley.com/wol1/doi/10.1002/eji.201646347/abstract) reviews pseudotime inference algorithms.
 [Pablo Cordero's blog post](http://hyperparameter.space/blog/a-single-cell-journey-from-mechanistic-to-descriptive-modeling-and-back-again/) discusses why it is hard to recover the correct dynamics of a system from single-cell data.
 For more general lists of methods for single-cell RNA-seq see [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell) and [scRNA-tools](https://www.scrna-tools.org/).
 The Hemberg lab [single-cell RNA-seq course](https://scrnaseq-course.cog.sanger.ac.uk/website/index.html) has an [overview of five pseudotime algorithms](https://scrnaseq-course.cog.sanger.ac.uk/website/biological-analysis.html#pseudotime-analysis) with usage examples.
+Many modern ideas for pseudotime estimation are descended from [Magwene et al. 2003](https://doi.org/10.1093/bioinformatics/btg081) on reconstructing the order of microarray expression samples.
 
 Single-cell expression data have also inspired new methods for gene regulatory network reconstruction, as reviewed by [Fiers et al. 2018](https://doi.org/10.1093/bfgp/elx046) and [Todorov et al. 2018](https://doi.org/10.1007/978-1-4939-8882-2_10).
 Several of these, such as [SINGE](https://doi.org/10.1101/534834), treat pseudotime annotations as time points and extend traditional time series network inference algorithms for single-cell data.
