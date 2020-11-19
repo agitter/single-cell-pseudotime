@@ -695,3 +695,9 @@ Manuscript: [Generative modeling of single-cell population time series for infer
 ## Mathematics of RNA Velocity
 
 Manuscript: [On the Mathematics of RNA Velocity I: Theoretical Analysis](https://doi.org/10.1101/2020.09.19.304584)
+
+## PseudotimeDE
+
+Software: https://github.com/SONGDONGYUAN1994/PseudotimeDE
+
+Manuscript: [PseudotimeDE: inference of differential gene expression along cell pseudotime with well-calibrated p-values from single-cell RNA sequencing data](https://doi.org/10.1101/2020.11.17.387779)
