@@ -558,6 +558,12 @@ Software: https://cellrank.org
 
 Manuscript: [CellRank for directed single-cell fate mapping](https://doi.org/10.1101/2020.10.19.345983)
 
+## Revelio
+
+Software: https://github.com/danielschw188/Revelio
+
+Manuscript: [The transcriptome dynamics of single cells during the cell cycle](https://doi.org/10.15252/msb.20209946)
+
 ## Related topics
 
 ### Cicero
