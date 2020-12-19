@@ -707,3 +707,7 @@ Manuscript: [On the Mathematics of RNA Velocity I: Theoretical Analysis](https:/
 Software: https://github.com/SONGDONGYUAN1994/PseudotimeDE
 
 Manuscript: [PseudotimeDE: inference of differential gene expression along cell pseudotime with well-calibrated p-values from single-cell RNA sequencing data](https://doi.org/10.1101/2020.11.17.387779)
+
+### TIPS
+
+Manuscript: [TIPS: Trajectory Inference of Pathway Significance through Pseudotime Comparison for Functional Assessment of single-cell RNAseq Data](https://doi.org/10.1101/2020.12.17.423360)
