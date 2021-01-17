@@ -717,3 +717,16 @@ Manuscript: [PseudotimeDE: inference of differential gene expression along cell 
 ### TIPS
 
 Manuscript: [TIPS: Trajectory Inference of Pathway Significance through Pseudotime Comparison for Functional Assessment of single-cell RNAseq Data](https://doi.org/10.1101/2020.12.17.423360)
+
+### VeloSim
+
+Software: https://github.com/PeterZZQ/VeloSim
+
+Manuscript: [VeloSim: Simulating single cell gene-expression and RNA velocity](https://doi.org/10.1101/2021.01.11.426277)
+
+<details>
+<summary>Abstract</summary>
+The availability of high throughput single-cell RNA-Sequencing data allows researchers to study the molecular mechanisms that drive the temporal dynamics of cells during differentiation or development. Recent computational methods that build upon single-cell sequencing technology, such as trajectory inference or RNA-velocity estimation, provide a way for researchers to analyze the state of each cell during a continuous dynamic process. However, with the surge of such computational methods, there is still a lack of simulators that can model the cell temporal dynamics, and provide ground truth data to benchmark the computational methods.
+
+Hereby we present VeloSim, a simulation software that can simulate the gene-expression kinetics in cells along continuous trajectories. VeloSim is able to take any trajectory structure composed of basic elements including “linear” and “cycle” as input, and outputs unspliced mRNA count matrix, spliced mRNA count matrix, cell pseudo-time and true RNA velocity of the cells. We demonstrate how VeloSim can be used to benchmark trajectory inference and RNA-velocity estimation methods with different amounts of biological and technical variation within the datasets. VeloSim is implemented into an R package available at https://github.com/PeterZZQ/VeloSim.
+</details>
