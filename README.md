@@ -570,6 +570,12 @@ Software: https://github.com/aron0093/cytopath
 
 Manuscript: [Cytopath: Simulation based inference of differentiation trajectories from RNA velocity fields](https://doi.org/10.1101/2020.12.21.423801)
 
+## VIA
+
+Software: https://github.com/ShobiStassen/VIA
+
+Manuscript: [VIA: Generalized and scalable trajectory inference in single-cell omics data](https://doi.org/10.1101/2021.02.10.430705)
+
 ## Related topics
 
 ### Cicero
