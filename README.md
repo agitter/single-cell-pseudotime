@@ -576,6 +576,25 @@ Software: https://github.com/ShobiStassen/VIA
 
 Manuscript: [VIA: Generalized and scalable trajectory inference in single-cell omics data](https://doi.org/10.1101/2021.02.10.430705)
 
+## Global Waddington-OT
+
+Software: https://github.com/zsteve/gWOT
+
+Manuscript: [Towards a mathematical theory of trajectory inference](https://arxiv.org/abs/2102.09204)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Related topics
 
 ### Cicero
