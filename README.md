@@ -757,3 +757,9 @@ The availability of high throughput single-cell RNA-Sequencing data allows resea
 
 Hereby we present VeloSim, a simulation software that can simulate the gene-expression kinetics in cells along continuous trajectories. VeloSim is able to take any trajectory structure composed of basic elements including “linear” and “cycle” as input, and outputs unspliced mRNA count matrix, spliced mRNA count matrix, cell pseudo-time and true RNA velocity of the cells. We demonstrate how VeloSim can be used to benchmark trajectory inference and RNA-velocity estimation methods with different amounts of biological and technical variation within the datasets. VeloSim is implemented into an R package available at https://github.com/PeterZZQ/VeloSim.
 </details>
+
+### SnapATAC
+
+Software: https://github.com/r3fang/SnapATAC
+
+Manuscript: [Comprehensive analysis of single cell ATAC-seq data with SnapATAC](https://doi.org/10.1038/s41467-021-21583-9)
