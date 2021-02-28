@@ -548,7 +548,9 @@ Software: https://github.com/statway/DTFLOW
 
 Manuscript: [DTFLOW: Inference and Visualization of Single-cell Pseudo-temporal Trajectories Using Diffusion Propagation](https://doi.org/10.1101/2020.09.10.290973)
 
-### CellPaths
+### CellPath
+
+Software: https://github.com/PeterZZQ/CellPath
 
 Manuscript: [Inference of multiple trajectories in single cell RNA-seq data from RNA velocity](https://doi.org/10.1101/2020.09.30.321125)
 
