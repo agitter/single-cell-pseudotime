@@ -3,6 +3,7 @@ on: [push, pull_request]
 jobs:
   test:
     name: Test links
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
