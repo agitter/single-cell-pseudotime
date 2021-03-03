@@ -1,5 +1,5 @@
 # Single-cell RNA-seq pseudotime estimation algorithms
-[![Build Status](https://travis-ci.org/agitter/single-cell-pseudotime.svg?branch=master)](https://travis-ci.org/agitter/single-cell-pseudotime)
+[![Test links](https://github.com/agitter/single-cell-pseudotime/actions/workflows/links.yml/badge.svg)](https://github.com/agitter/single-cell-pseudotime/actions/workflows/links.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1297422.svg)](https://doi.org/10.5281/zenodo.1297422)
 
 Single cells, many algorithms.
