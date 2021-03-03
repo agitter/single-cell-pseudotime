@@ -560,29 +560,36 @@ Software: https://cellrank.org
 
 Manuscript: [CellRank for directed single-cell fate mapping](https://doi.org/10.1101/2020.10.19.345983)
 
-## Revelio
+### Revelio
 
 Software: https://github.com/danielschw188/Revelio
 
 Manuscript: [The transcriptome dynamics of single cells during the cell cycle](https://doi.org/10.15252/msb.20209946)
 
-## Cytopath
+### Cytopath
 
 Software: https://github.com/aron0093/cytopath
 
 Manuscript: [Cytopath: Simulation based inference of differentiation trajectories from RNA velocity fields](https://doi.org/10.1101/2020.12.21.423801)
 
-## VIA
+### VIA
 
 Software: https://github.com/ShobiStassen/VIA
 
 Manuscript: [VIA: Generalized and scalable trajectory inference in single-cell omics data](https://doi.org/10.1101/2021.02.10.430705)
 
-## Global Waddington-OT
+### Global Waddington-OT
 
 Software: https://github.com/zsteve/gWOT
 
 Manuscript: [Towards a mathematical theory of trajectory inference](https://arxiv.org/abs/2102.09204)
+
+### StationaryOT
+
+Software: https://github.com/zsteve/StationaryOT
+
+Manuscript: [Optimal transport analysis reveals trajectories in steady-state systems](https://doi.org/10.1101/2021.03.02.433630)
+
 
 
 
