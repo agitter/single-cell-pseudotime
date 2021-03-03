@@ -1,0 +1,17 @@
+name: Test links
+on: [push, pull_request]
+jobs:
+  test:
+    name: Test links
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0 
+      # https://github.com/dkhamsing/awesome_bot
+      - name: Install awesome_bot
+        run: gem install awesome_bot
+      - name: Run awesome_bot link checks
+        run: awesome_bot README.md --allow-redirect --allow-dupe
