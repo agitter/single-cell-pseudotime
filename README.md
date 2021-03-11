@@ -590,7 +590,13 @@ Software: https://github.com/zsteve/StationaryOT
 
 Manuscript: [Optimal transport analysis reveals trajectories in steady-state systems](https://doi.org/10.1101/2021.03.02.433630)
 
+### Condiments
 
+Software: https://github.com/HectorRDB/condiments
+
+Vignettes: https://hectorrdb.github.io/condimentsPaper/
+
+Manuscript: [Trajectory inference across multiple conditions with condiments: differential topology, progression, differentiation, and expression](https://doi.org/10.1101/2021.03.09.433671)
 
 
 
