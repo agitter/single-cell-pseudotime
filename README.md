@@ -776,3 +776,9 @@ Hereby we present VeloSim, a simulation software that can simulate the gene-expr
 Software: https://github.com/r3fang/SnapATAC
 
 Manuscript: [Comprehensive analysis of single cell ATAC-seq data with SnapATAC](https://doi.org/10.1038/s41467-021-21583-9)
+
+### Spectral single cell
+
+Software: https://github.com/mornitzan/spectral_sc
+
+Manuscript: [Revealing lineage-related signals in single-cell gene expression using random matrix theory](https://doi.org/10.1073/pnas.1913931118)
