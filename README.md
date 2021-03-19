@@ -598,7 +598,11 @@ Vignettes: https://hectorrdb.github.io/condimentsPaper/
 
 Manuscript: [Trajectory inference across multiple conditions with condiments: differential topology, progression, differentiation, and expression](https://doi.org/10.1101/2021.03.09.433671)
 
+### DeepCycle
 
+Software: https://github.com/andreariba/DeepCycle
+
+Manuscript: [Cell cycle gene regulation dynamics revealed by RNA velocity and deep-learning](https://doi.org/10.1101/2021.03.17.435887)
 
 
 
