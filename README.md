@@ -786,3 +786,9 @@ Manuscript: [Comprehensive analysis of single cell ATAC-seq data with SnapATAC](
 Software: https://github.com/mornitzan/spectral_sc
 
 Manuscript: [Revealing lineage-related signals in single-cell gene expression using random matrix theory](https://doi.org/10.1073/pnas.1913931118)
+
+### schubness
+
+Software: https://github.com/EliseAld/schubness
+
+Manuscript: [Hubness reduction improves clustering and trajectory inference in single-cell transcriptomic data](https://doi.org/10.1101/2021.03.18.435808)
