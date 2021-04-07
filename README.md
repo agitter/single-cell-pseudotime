@@ -604,6 +604,11 @@ Software: https://github.com/andreariba/DeepCycle
 
 Manuscript: [Cell cycle gene regulation dynamics revealed by RNA velocity and deep-learning](https://doi.org/10.1101/2021.03.17.435887)
 
+### Tricycle
+
+Software: https://github.com/hansenlab/tricycle
+
+Manuscript: [Universal prediction of cell cycle position using transfer learning](https://doi.org/10.1101/2021.04.06.438463)
 
 
 
