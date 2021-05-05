@@ -610,7 +610,11 @@ Software: https://github.com/hansenlab/tricycle
 
 Manuscript: [Universal prediction of cell cycle position using transfer learning](https://doi.org/10.1101/2021.04.06.438463)
 
+### scShaper
 
+Software: https://github.com/elolab/scshaper
+
+Manuscript: https://doi.org/10.1101/2021.05.03.442435
 
 
 
