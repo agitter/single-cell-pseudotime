@@ -614,7 +614,8 @@ Manuscript: [Universal prediction of cell cycle position using transfer learning
 
 Software: https://github.com/elolab/scshaper
 
-Manuscript: https://doi.org/10.1101/2021.05.03.442435
+Manuscript: [scShaper: ensemble method for fast and accurate linear trajectory inference from single-cell RNA-seq data](https://doi.org/10.1101/2021.05.03.442435)
+
 
 
 
@@ -801,3 +802,9 @@ Manuscript: [Revealing lineage-related signals in single-cell gene expression us
 Software: https://github.com/EliseAld/schubness
 
 Manuscript: [Hubness reduction improves clustering and trajectory inference in single-cell transcriptomic data](https://doi.org/10.1101/2021.03.18.435808)
+
+### TreeVAE
+
+Software: https://github.com/khalilouardini/treeVAE-reproducibility
+
+Manuscript: [Reconstructing unobserved cellular states from paired single-cell lineage tracing and transcriptomics data](https://doi.org/10.1101/2021.05.28.446021)
