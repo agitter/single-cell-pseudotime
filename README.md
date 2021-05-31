@@ -808,3 +808,9 @@ Manuscript: [Hubness reduction improves clustering and trajectory inference in s
 Software: https://github.com/khalilouardini/treeVAE-reproducibility
 
 Manuscript: [Reconstructing unobserved cellular states from paired single-cell lineage tracing and transcriptomics data](https://doi.org/10.1101/2021.05.28.446021)
+
+### CoSpar
+
+Software: https://cospar.readthedocs.io/
+
+Manuscript: [Learning dynamics by computational integration of single cell genomic and lineage information](https://doi.org/10.1101/2021.05.06.443026)
