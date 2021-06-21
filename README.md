@@ -616,6 +616,12 @@ Software: https://github.com/elolab/scshaper
 
 Manuscript: [scShaper: ensemble method for fast and accurate linear trajectory inference from single-cell RNA-seq data](https://doi.org/10.1101/2021.05.03.442435)
 
+### CCPE
+
+Software: https://github.com/LiuJJ0327/CCPE
+
+Manuscript: [CCPE: Cell Cycle Pseudotime Estimation for Single Cell RNA-seq Data](https://doi.org/10.1101/2021.06.13.448263)
+
 
 
 
