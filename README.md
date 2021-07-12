@@ -820,3 +820,9 @@ Manuscript: [Reconstructing unobserved cellular states from paired single-cell l
 Software: https://cospar.readthedocs.io/
 
 Manuscript: [Learning dynamics by computational integration of single cell genomic and lineage information](https://doi.org/10.1101/2021.05.06.443026)
+
+### Lamian
+
+Software: https://github.com/Winnie09/Lamian and https://github.com/Winnie09/trajectory_variability
+
+Manuscript: [A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples](https://doi.org/10.1101/2021.07.10.451910)
