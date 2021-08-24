@@ -826,3 +826,9 @@ Manuscript: [Learning dynamics by computational integration of single cell genom
 Software: https://github.com/Winnie09/Lamian and https://github.com/Winnie09/trajectory_variability
 
 Manuscript: [A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples](https://doi.org/10.1101/2021.07.10.451910)
+
+### TedSim
+
+Software: https://github.com/Galaxeee/TedSim
+
+Manuscript: [TedSim: temporal dynamics simulation of single cell RNA-sequencing data and cell division history](https://doi.org/10.1101/2021.06.21.449283)
