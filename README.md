@@ -832,3 +832,9 @@ Manuscript: [A statistical framework for differential pseudotime analysis with m
 Software: https://github.com/Galaxeee/TedSim
 
 Manuscript: [TedSim: temporal dynamics simulation of single cell RNA-sequencing data and cell division history](https://doi.org/10.1101/2021.06.21.449283)
+
+### Single-cell generalized trend model
+
+Software: https://github.com/ElvisCuiHan/scGTM
+
+Manuscript: [Single-cell generalized trend model (scGTM): a flexible and interpretable model of gene expression trend along cell pseudotime](https://doi.org/10.1101/2021.11.25.470059)
