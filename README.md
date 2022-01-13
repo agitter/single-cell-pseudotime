@@ -558,7 +558,7 @@ Manuscript: [Inference of multiple trajectories in single cell RNA-seq data from
 
 Software: https://cellrank.org
 
-Manuscript: [CellRank for directed single-cell fate mapping](https://doi.org/10.1101/2020.10.19.345983)
+Manuscript: [CellRank for directed single-cell fate mapping](https://doi.org/10.1038/s41592-021-01346-6)
 
 ### Revelio
 
