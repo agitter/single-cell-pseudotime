@@ -622,6 +622,21 @@ Software: https://github.com/LiuJJ0327/CCPE
 
 Manuscript: [CCPE: Cell Cycle Pseudotime Estimation for Single Cell RNA-seq Data](https://doi.org/10.1101/2021.06.13.448263)
 
+### scDVF
+
+Software: https://github.com/gersteinlab/scDVF
+
+Manuscript: [scDVF: Data-driven Single-cell Transcriptomic Deep Velocity Field Learning with Neural Ordinary Differential Equations](https://doi.org/10.1101/2022.02.15.480564)
+
+
+
+
+
+
+
+
+
+
 
 
 
