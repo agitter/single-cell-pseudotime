@@ -628,7 +628,11 @@ Software: https://github.com/gersteinlab/scDVF
 
 Manuscript: [scDVF: Data-driven Single-cell Transcriptomic Deep Velocity Field Learning with Neural Ordinary Differential Equations](https://doi.org/10.1101/2022.02.15.480564)
 
+### Tempo
 
+Software: https://github.com/bauerbach95/tempo
+
+Manuscript: [Tempo: an unsupervised Bayesian algorithm for circadian phase inference in single-cell transcriptomics](https://doi.org/10.1101/2022.03.15.484454)
 
 
 
