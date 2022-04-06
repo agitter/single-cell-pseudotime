@@ -634,7 +634,11 @@ Software: https://github.com/bauerbach95/tempo
 
 Manuscript: [Tempo: an unsupervised Bayesian algorithm for circadian phase inference in single-cell transcriptomics](https://doi.org/10.1101/2022.03.15.484454)
 
+### DeepVelo
 
+Software: https://github.com/bowang-lab/DeepVelo
+
+Manuscript: [DeepVelo: Deep Learning extends RNA velocity to multi-lineage systems with cell-specific kinetics](https://doi.org/10.1101/2022.04.03.486877)
 
 
 
