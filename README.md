@@ -640,7 +640,11 @@ Software: https://github.com/bowang-lab/DeepVelo
 
 Manuscript: [DeepVelo: Deep Learning extends RNA velocity to multi-lineage systems with cell-specific kinetics](https://doi.org/10.1101/2022.04.03.486877)
 
+### LRT
 
+Software: https://github.com/JuanXie19/LRT
+
+Manuscript: [LRT: T Cell Trajectory Inference by Integrative Analysis of Single Cell TCR-seq and RNA-seq data](https://doi.org/10.1101/2022.04.14.488320)
 
 
 
