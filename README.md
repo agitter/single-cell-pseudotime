@@ -646,7 +646,11 @@ Software: https://github.com/JuanXie19/LRT
 
 Manuscript: [LRT: T Cell Trajectory Inference by Integrative Analysis of Single Cell TCR-seq and RNA-seq data](https://doi.org/10.1101/2022.04.14.488320)
 
+### scTour
 
+Software: https://github.com/LiQian-XC/sctour
+
+Manuscript: [scTour: a deep learning architecture for robust inference and accurate prediction of cellular dynamics](https://doi.org/10.1101/2022.04.17.488600)
 
 
 
