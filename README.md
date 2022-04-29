@@ -652,6 +652,22 @@ Software: https://github.com/LiQian-XC/sctour
 
 Manuscript: [scTour: a deep learning architecture for robust inference and accurate prediction of cellular dynamics](https://doi.org/10.1101/2022.04.17.488600)
 
+### UniTVelo
+
+Software: https://github.com/StatBiomed/UniTVelo
+
+Manuscript: [UniTVelo: temporally unified RNA velocity reinforces single-cell trajectory inference](https://doi.org/10.1101/2022.04.27.489808)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
