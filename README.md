@@ -735,7 +735,7 @@ Manuscript: [Dynamic pseudo-time warping of complex single-cell trajectories](ht
 
 Software: https://github.com/gitter-lab/SINGE
 
-Manuscript: [Network Inference with Granger Causality Ensembles on Single-Cell Transcriptomic Data](https://doi.org/10.1101/534834)
+Manuscript: [Network inference with Granger causality ensembles on single-cell transcriptomics](https://doi.org/10.1016/j.celrep.2022.110333)
 
 ### GPseudoClust
 
