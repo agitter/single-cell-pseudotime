@@ -658,7 +658,11 @@ Software: https://github.com/StatBiomed/UniTVelo
 
 Manuscript: [UniTVelo: temporally unified RNA velocity reinforces single-cell trajectory inference](https://doi.org/10.1101/2022.04.27.489808)
 
+### VITAE
 
+Software: https://github.com/jaydu1/VITAE
+
+Manuscript: [Model-based Trajectory Inference for Single-Cell RNA Sequencing Using Deep Learning with a Mixture Prior](https://doi.org/10.1101/2020.12.26.424452)
 
 
 
