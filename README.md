@@ -664,7 +664,9 @@ Software: https://github.com/jaydu1/VITAE
 
 Manuscript: [Model-based Trajectory Inference for Single-Cell RNA Sequencing Using Deep Learning with a Mixture Prior](https://doi.org/10.1101/2020.12.26.424452)
 
+### Real-time axis for T cells
 
+Manuscript: [From pseudotime to true dynamics: reconstructing a real-time axis for T cells differentiation](https://doi.org/10.1101/2022.06.09.495431)
 
 
 
