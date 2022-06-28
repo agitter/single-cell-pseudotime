@@ -890,7 +890,7 @@ Manuscript: [TedSim: temporal dynamics simulation of single cell RNA-sequencing 
 
 Software: https://github.com/ElvisCuiHan/scGTM
 
-Manuscript: [Single-cell generalized trend model (scGTM): a flexible and interpretable model of gene expression trend along cell pseudotime](https://doi.org/10.1101/2021.11.25.470059)
+Manuscript: [Single-cell generalized trend model (scGTM): a flexible and interpretable model of gene expression trend along cell pseudotime](https://doi.org/10.1093/bioinformatics/btac423)
 
 ### Expression and Velocity Integration
 
