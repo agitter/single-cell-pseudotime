@@ -668,9 +668,17 @@ Manuscript: [Model-based Trajectory Inference for Single-Cell RNA Sequencing Usi
 
 Manuscript: [From pseudotime to true dynamics: reconstructing a real-time axis for T cells differentiation](https://doi.org/10.1101/2022.06.09.495431)
 
+### GeneTrajectory
 
+Software: https://github.com/KlugerLab/GeneTrajectory
 
+Manuscript [Gene Trajectory Inference for Single-cell Data by Optimal Transport Metrics](https://doi.org/10.1101/2022.07.08.499404)
 
+### scFates
+
+Software: https://scfates.readthedocs.io/en/latest/
+
+Manuscript: [scFates: a scalable python package for advanced pseudotime and bifurcation analysis from single cell data](https://doi.org/10.1101/2022.07.09.498657)
 
 
 
