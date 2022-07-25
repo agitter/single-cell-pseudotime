@@ -905,3 +905,9 @@ Manuscript: [Single-cell generalized trend model (scGTM): a flexible and interpr
 Software: https://github.com/jranek/EVI
 
 Manuscript: [Integrating temporal single-cell gene expression modalities for trajectory inference and disease prediction](https://doi.org/10.1101/2022.03.01.482381)
+
+### scSTEM
+
+Software: https://github.com/alexQiSong/scSTEM
+
+Manuscript: [scSTEM: clustering pseudotime ordered single-cell data](https://doi.org/10.1186/s13059-022-02716-9)
