@@ -680,7 +680,7 @@ Software: https://scfates.readthedocs.io/en/latest/
 
 Manuscript: [scFates: a scalable python package for advanced pseudotime and bifurcation analysis from single cell data](https://doi.org/10.1101/2022.07.09.498657)
 
-## veloVI
+### veloVI
 
 Software: https://github.com/YosefLab/velovi
 
