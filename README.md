@@ -915,3 +915,9 @@ Manuscript: [Integrating temporal single-cell gene expression modalities for tra
 Software: https://github.com/alexQiSong/scSTEM
 
 Manuscript: [scSTEM: clustering pseudotime ordered single-cell data](https://doi.org/10.1186/s13059-022-02716-9)
+
+### SlowMoMan
+
+Software: https://yunwilliamyu.github.io/SlowMoMan/
+
+Manuscript: [SlowMoMan: A web app for discovery of important features along user-drawn trajectories in 2D embeddings](https://doi.org/10.1101/2022.08.23.505019)
