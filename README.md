@@ -686,6 +686,14 @@ Software: https://github.com/YosefLab/velovi
 
 Manuscript: [Deep generative modeling of transcriptional dynamics for RNA velocity analysis in single cells](https://doi.org/10.1101/2022.08.12.503709)
 
+### MIRA
+
+Software: https://github.com/cistrome/MIRA
+
+Manuscript: [MIRA: joint regulatory modeling of multimodal expression and chromatin accessibility in single cells](https://doi.org/10.1038/s41592-022-01595-z)
+
+
+
 
 
 
