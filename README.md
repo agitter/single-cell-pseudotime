@@ -692,6 +692,13 @@ Software: https://github.com/cistrome/MIRA
 
 Manuscript: [MIRA: joint regulatory modeling of multimodal expression and chromatin accessibility in single cells](https://doi.org/10.1038/s41592-022-01595-z)
 
+### Pyro-Velocity
+
+Software: https://github.com/pinellolab/pyrovelocity
+
+Manuscript: [Pyro-Velocity: Probabilistic RNA Velocity inference from single-cell data](https://doi.org/10.1101/2022.09.12.507691)
+
+
 
 
 
@@ -929,3 +936,9 @@ Manuscript: [scSTEM: clustering pseudotime ordered single-cell data](https://doi
 Software: https://yunwilliamyu.github.io/SlowMoMan/
 
 Manuscript: [SlowMoMan: A web app for discovery of important features along user-drawn trajectories in 2D embeddings](https://doi.org/10.1101/2022.08.23.505019)
+
+### Dictys
+
+Software: https://github.com/pinellolab/dictys
+
+Manuscript: [Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multi-omics](https://doi.org/10.1101/2022.09.14.508036)
