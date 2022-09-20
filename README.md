@@ -698,6 +698,16 @@ Software: https://github.com/pinellolab/pyrovelocity
 
 Manuscript: [Pyro-Velocity: Probabilistic RNA Velocity inference from single-cell data](https://doi.org/10.1101/2022.09.12.507691)
 
+### Totem
+
+Software: https://github.com/elolab/Totem
+
+Manuscript: [Totem: a user-friendly tool for clustering-based inference of tree-shaped trajectories from single-cell data](https://doi.org/10.1101/2022.09.19.508535)
+
+
+
+
+
 
 
 
