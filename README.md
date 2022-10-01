@@ -704,8 +704,11 @@ Software: https://github.com/elolab/Totem
 
 Manuscript: [Totem: a user-friendly tool for clustering-based inference of tree-shaped trajectories from single-cell data](https://doi.org/10.1101/2022.09.19.508535)
 
+### scLTNN
 
+Software: https://github.com/Starlitnightly/scltnn
 
+Manuscript [Identify the origin and end cells and infer the trajectory of cellular fate automatically](https://doi.org/10.1101/2022.09.28.510020)
 
 
 
