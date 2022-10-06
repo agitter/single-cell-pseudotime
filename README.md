@@ -708,9 +708,11 @@ Manuscript: [Totem: a user-friendly tool for clustering-based inference of tree-
 
 Software: https://github.com/Starlitnightly/scltnn
 
-Manuscript [Identify the origin and end cells and infer the trajectory of cellular fate automatically](https://doi.org/10.1101/2022.09.28.510020)
+Manuscript: [Identify the origin and end cells and infer the trajectory of cellular fate automatically](https://doi.org/10.1101/2022.09.28.510020)
 
+### UPMM
 
+Manuscript: [Modeling Single-Cell Dynamics Using Unbalanced Parameterized Monge Maps](https://doi.org/10.1101/2022.10.04.510766)
 
 
 
