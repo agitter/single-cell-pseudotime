@@ -714,7 +714,11 @@ Manuscript: [Identify the origin and end cells and infer the trajectory of cellu
 
 Manuscript: [Modeling Single-Cell Dynamics Using Unbalanced Parameterized Monge Maps](https://doi.org/10.1101/2022.10.04.510766)
 
+### PhyloVelo
 
+Software: https://github.com/kunwang34/PhyloVelo
+
+Manuscript: [Cell division history encodes directional information of fate transitions](https://doi.org/10.1101/2022.10.06.511094)
 
 
 
