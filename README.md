@@ -4,11 +4,9 @@
 
 Single cells, many algorithms.
 The goal of this page is to catalog the many algorithms that estimate pseudotimes for cells based on their gene expression levels.
-This problem is also referred to as single-cell trajectory inference
-or ordering.
-Ultimately, it will contain method names, software links, manuscript links, and brief comments on the particular strengths of each method.
-Initially, it seeks simply to list as many methods as possible.
-Some related methods not specifically designed for RNA-seq (e.g. mass cytometry) are included as well.
+This problem is also referred to as single-cell trajectory inference or ordering.
+It contains method names, software links, and manuscript links and simply seeks to list as many methods as possible without commentary.
+Some related methods not specifically designed for RNA-seq (e.g. mass cytometry) are included as well, as are some methods for estimating RNA velocity.
 The list also includes methods that are specifically designed to take pseudotemporal data as input.
 
 The initial list was created by Anthony Gitter, but pull requests are very welcome.
@@ -43,8 +41,8 @@ The Hemberg lab [single-cell RNA-seq course](https://scrnaseq-course.cog.sanger.
 Many modern ideas for pseudotime estimation are descended from [Magwene et al. 2003](https://doi.org/10.1093/bioinformatics/btg081) on reconstructing the order of microarray expression samples.
 
 Single-cell expression data have also inspired new methods for gene regulatory network reconstruction, as reviewed by [Fiers et al. 2018](https://doi.org/10.1093/bfgp/elx046) and [Todorov et al. 2018](https://doi.org/10.1007/978-1-4939-8882-2_10).
-Several of these, such as [SINGE](https://doi.org/10.1101/534834), treat pseudotime annotations as time points and extend traditional time series network inference algorithms for single-cell data.
-[BEELINE](https://doi.org/10.1101/642926) and [SERGIO](https://doi.org/10.1101/716811) benchmark many of these specialized network inference methods.
+Several of these, such as [SINGE](http://doi.org/10.1016/j.celrep.2022.110333), treat pseudotime annotations as time points and extend traditional time series network inference algorithms for single-cell data.
+[BEELINE](http://doi.org/10.1038/s41592-019-0690-6), [SERGIO](http://doi.org/10.1016/j.cels.2020.08.003), and [Stone et al. 2021](https://doi.org/10.1101/2021.06.01.446671) benchmark many of these specialized network inference methods.
 
 ## Choosing a method
 
@@ -64,7 +62,7 @@ See their [website](https://dynverse.org/) and [GitHub repository](https://githu
 ### Temporal Reconstruction Algorithm
 Manuscript: [Reconstructing the temporal ordering of biological samples using microarray data](https://doi.org/10.1093/bioinformatics/btg081)
 
-### Monocle / Monocle 2 / Monocle 3/ Census
+### Monocle / Monocle 2 / Monocle 3 / Census
 Software: https://bioconductor.org/packages/release/bioc/html/monocle.html
 
 Monocle manuscript: [The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells](https://doi.org/10.1038/nbt.2859)
