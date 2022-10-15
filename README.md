@@ -718,6 +718,14 @@ Software: https://github.com/kunwang34/PhyloVelo
 
 Manuscript: [Cell division history encodes directional information of fate transitions](https://doi.org/10.1101/2022.10.06.511094)
 
+### MultiVelo
+
+Software: https://github.com/welch-lab/MultiVelo
+
+Manuscript: [Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction](https://doi.org/10.1038/s41587-022-01476-y)
+
+
+
 
 
 
