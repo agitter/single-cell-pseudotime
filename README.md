@@ -724,6 +724,13 @@ Software: https://github.com/welch-lab/MultiVelo
 
 Manuscript: [Multi-omic single-cell velocity models epigenome–transcriptome interactions and improves cell fate prediction](https://doi.org/10.1038/s41587-022-01476-y)
 
+### SCTC
+
+Software: https://github.com/hailinphysics/sctc
+
+Manuscript: [SCTC: inference of developmental potential from single-cell transcriptional complexity](https://doi.org/10.1101/2022.10.14.512265)
+
+
 
 
 
