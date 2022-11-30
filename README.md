@@ -189,9 +189,6 @@ Software: https://github.com/lengning/WaveCrest
 
 Manuscript: [Single-cell RNA-seq reveals novel regulators of human embryonic stem cell differentiation to definitive endoderm](https://doi.org/10.1186/s13059-016-1033-x)
 
-### LEAP
-
-Software: https://cran.r-project.org/web/packages/LEAP/index.html
 
 ### CellTree
 
@@ -974,3 +971,9 @@ Manuscript: [SlowMoMan: A web app for discovery of important features along user
 Software: https://github.com/pinellolab/dictys
 
 Manuscript: [Dictys: dynamic gene regulatory network dissects developmental continuum with single-cell multi-omics](https://doi.org/10.1101/2022.09.14.508036)
+
+### LEAP
+
+Software: https://cran.r-project.org/web/packages/LEAP/index.html
+
+Manuscript: [LEAP: constructing gene co-expression networks for single-cell RNA-sequencing data using pseudotime ordering](https://doi.org/10.1093/bioinformatics/btw729)
