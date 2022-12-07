@@ -727,7 +727,11 @@ Software: https://github.com/hailinphysics/sctc
 
 Manuscript: [SCTC: inference of developmental potential from single-cell transcriptional complexity](https://doi.org/10.1101/2022.10.14.512265)
 
+### MIOFlow
 
+Software: https://github.com/KrishnaswamyLab/MIOFlow
+
+Manuscript [Manifold Interpolating Optimal-Transport Flows for Trajectory Inference](https://openreview.net/forum?id=ahAEhOtVif)
 
 
 
