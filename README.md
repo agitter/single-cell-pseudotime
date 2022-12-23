@@ -731,7 +731,18 @@ Manuscript: [SCTC: inference of developmental potential from single-cell transcr
 
 Software: https://github.com/KrishnaswamyLab/MIOFlow
 
-Manuscript [Manifold Interpolating Optimal-Transport Flows for Trajectory Inference](https://openreview.net/forum?id=ahAEhOtVif)
+Manuscript: [Manifold Interpolating Optimal-Transport Flows for Trajectory Inference](https://openreview.net/forum?id=ahAEhOtVif)
+
+### DEAPLOG
+
+Software: https://github.com/ZhangHongbo-Lab/DEAPLOG
+
+Manuscript: [A method for differential expression analysis and pseudo-temporal locating and ordering of genes in single-cell transcriptomic data](https://doi.org/10.1101/2022.12.21.521359)
+
+
+
+
+
 
 
 
