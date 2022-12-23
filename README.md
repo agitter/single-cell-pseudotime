@@ -992,3 +992,9 @@ Manuscript: [Dictys: dynamic gene regulatory network dissects developmental cont
 Software: https://cran.r-project.org/web/packages/LEAP/index.html
 
 Manuscript: [LEAP: constructing gene co-expression networks for single-cell RNA-sequencing data using pseudotime ordering](https://doi.org/10.1093/bioinformatics/btw729)
+
+### TrAGEDy
+
+Software: https://github.com/No2Ross/TrAGEDy
+
+Manuscript: [TrAGEDy: Trajectory Alignment of Gene Expression Dynamics](https://doi.org/10.1101/2022.12.21.521424)
