@@ -998,3 +998,9 @@ Manuscript: [LEAP: constructing gene co-expression networks for single-cell RNA-
 Software: https://github.com/No2Ross/TrAGEDy
 
 Manuscript: [TrAGEDy: Trajectory Alignment of Gene Expression Dynamics](https://doi.org/10.1101/2022.12.21.521424)
+
+### Genes2Genes
+
+Software: https://github.com/Teichlab/Genes2Genes
+
+Manuscript: [Gene-level alignment of single cell trajectories informs the progression of in vitro T cell differentiation](https://doi.org/10.1101/2023.03.08.531713)
