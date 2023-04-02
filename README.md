@@ -497,9 +497,11 @@ Manuscript: [CellCycleTRACER accounts for cell cycle and volume in mass cytometr
 
 ### TrajectoryNet
 
-Software: https://github.com/krishnaswamylab/TrajectoryNet
+Software: https://github.com/krishnaswamylab/TrajectoryNet and https://github.com/KrishnaswamyLab/Cell-Dynamics-Pipeline
 
 Manuscript: [TrajectoryNet: A Dynamic Optimal Transport Network for Modeling Cellular Dynamics](https://arxiv.org/abs/2002.04461)
+
+Additional manuscript: [Learning transcriptional and regulatory dynamics driving cancer cell plasticity using neural ODE-based optimal transport](https://doi.org/10.1101/2023.03.28.534644)
 
 ### redPATH
 
@@ -738,6 +740,11 @@ Manuscript: [Manifold Interpolating Optimal-Transport Flows for Trajectory Infer
 Software: https://github.com/ZhangHongbo-Lab/DEAPLOG
 
 Manuscript: [A method for differential expression analysis and pseudo-temporal locating and ordering of genes in single-cell transcriptomic data](https://doi.org/10.1101/2022.12.21.521359)
+
+
+
+
+
 
 
 
