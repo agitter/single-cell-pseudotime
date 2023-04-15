@@ -741,7 +741,11 @@ Software: https://github.com/ZhangHongbo-Lab/DEAPLOG
 
 Manuscript: [A method for differential expression analysis and pseudo-temporal locating and ordering of genes in single-cell transcriptomic data](https://doi.org/10.1101/2022.12.21.521359)
 
+### GCSTI
 
+Software: https://github.com/xznhy/rna-seq
+
+Manuscript: [GCSTI: A Single-Cell Pseudotemporal Trajectory Inference Method Based on Graph Compression](https://doi.org/10.1109/TCBB.2023.3266109)
 
 
 
