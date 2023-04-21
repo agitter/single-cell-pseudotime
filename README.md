@@ -1015,3 +1015,9 @@ Manuscript: [TrAGEDy: Trajectory Alignment of Gene Expression Dynamics](https://
 Software: https://github.com/Teichlab/Genes2Genes
 
 Manuscript: [Gene-level alignment of single cell trajectories informs the progression of in vitro T cell differentiation](https://doi.org/10.1101/2023.03.08.531713)
+
+### popInfer
+
+Software: https://github.com/maclean-lab/popInfer
+
+Manuscript: [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://doi.org/10.1101/2023.04.18.537360)
