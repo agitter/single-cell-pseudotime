@@ -753,6 +753,12 @@ Software: https://moscot-tools.org/
 
 Manuscript: [Mapping cells through time and space with moscot](https://doi.org/10.1101/2023.05.11.540374)
 
+### DELVE
+
+Software: https://github.com/jranek/delve
+
+Manuscript: [Feature selection for preserving biological trajectories in single-cell data](https://doi.org/10.1101/2023.05.09.540043)
+
 
 
 
