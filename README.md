@@ -747,6 +747,11 @@ Software: https://github.com/xznhy/rna-seq
 
 Manuscript: [GCSTI: A Single-Cell Pseudotemporal Trajectory Inference Method Based on Graph Compression](https://doi.org/10.1109/TCBB.2023.3266109)
 
+### moscot
+
+Software: https://moscot-tools.org/
+
+Manuscript: [Mapping cells through time and space with moscot](https://doi.org/10.1101/2023.05.11.540374)
 
 
 
