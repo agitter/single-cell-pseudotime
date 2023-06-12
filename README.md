@@ -772,10 +772,6 @@ Manuscript: [Feature selection for preserving biological trajectories in single-
 
 
 
-
-
-
-
 ## Related topics
 
 ### Cicero
@@ -913,6 +909,10 @@ Manuscript: [Generative modeling of single-cell population time series for infer
 ### Mathematics of RNA Velocity
 
 Manuscript: [On the Mathematics of RNA Velocity I: Theoretical Analysis](https://doi.org/10.1101/2020.09.19.304584)
+
+### Mathematics of RNA Velocity II
+
+Manuscript: [On the Mathematics of RNA Velocity II: Algorithmic Aspects](https://doi.org/10.1101/2023.06.09.544270)
 
 ### PseudotimeDE
 
