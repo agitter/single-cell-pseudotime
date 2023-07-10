@@ -759,7 +759,11 @@ Software: https://github.com/jranek/delve
 
 Manuscript: [Feature selection for preserving biological trajectories in single-cell data](https://doi.org/10.1101/2023.05.09.540043)
 
+### Velvet
 
+Software: https://github.com/rorymaizels/velvet
+
+Manuscript: [Deep dynamical modelling of developmental trajectories with temporal transcriptomics](https://doi.org/10.1101/2023.07.06.547989)
 
 
 
