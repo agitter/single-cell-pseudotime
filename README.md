@@ -765,7 +765,11 @@ Software: https://github.com/rorymaizels/velvet
 
 Manuscript: [Deep dynamical modelling of developmental trajectories with temporal transcriptomics](https://doi.org/10.1101/2023.07.06.547989)
 
+### ENTRAIN
 
+Software: https://github.com/theimagelab/entrain
+
+Manuscript: [ENTRAIN: integrating trajectory inference and gene regulatory networks with spatial data to co-localize the receptor-ligand interactions that specify cell fate](https://doi.org/10.1101/2023.07.09.548284)
 
 
 
