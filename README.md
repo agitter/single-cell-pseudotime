@@ -551,11 +551,13 @@ Software: https://github.com/PeterZZQ/CellPath
 
 Manuscript: [Inference of multiple trajectories in single cell RNA-seq data from RNA velocity](https://doi.org/10.1101/2020.09.30.321125)
 
-### CellRank
+### CellRank / CellRank 2
 
 Software: https://cellrank.org
 
-Manuscript: [CellRank for directed single-cell fate mapping](https://doi.org/10.1038/s41592-021-01346-6)
+CellRank manuscript: [CellRank for directed single-cell fate mapping](https://doi.org/10.1038/s41592-021-01346-6)
+
+CellRank 2 manuscript: [Unified fate mapping in multiview single-cell data](https://doi.org/10.1101/2023.07.19.549685)
 
 ### Revelio
 
