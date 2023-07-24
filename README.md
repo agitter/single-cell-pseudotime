@@ -773,6 +773,17 @@ Software: https://github.com/theimagelab/entrain
 
 Manuscript: [ENTRAIN: integrating trajectory inference and gene regulatory networks with spatial data to co-localize the receptor-ligand interactions that specify cell fate](https://doi.org/10.1101/2023.07.09.548284)
 
+### TFvelo
+
+Software: https://github.com/xiaoyeye/TFvelo
+
+Manuscript: [TFvelo: gene regulation inspired RNA velocity estimation](https://doi.org/10.1101/2023.07.12.548785)
+
+
+
+
+
+
 
 
 
