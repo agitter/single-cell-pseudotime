@@ -779,7 +779,9 @@ Software: https://github.com/xiaoyeye/TFvelo
 
 Manuscript: [TFvelo: gene regulation inspired RNA velocity estimation](https://doi.org/10.1101/2023.07.12.548785)
 
+### TopGen
 
+# Manuscript: [Unraveling cell differentiation mechanisms through topological exploration of single-cell developmental trajectories](https://doi.org/10.1101/2023.07.28.551057)
 
 
 
