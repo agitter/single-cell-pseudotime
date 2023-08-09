@@ -781,9 +781,13 @@ Manuscript: [TFvelo: gene regulation inspired RNA velocity estimation](https://d
 
 ### TopGen
 
-# Manuscript: [Unraveling cell differentiation mechanisms through topological exploration of single-cell developmental trajectories](https://doi.org/10.1101/2023.07.28.551057)
+Manuscript: [Unraveling cell differentiation mechanisms through topological exploration of single-cell developmental trajectories](https://doi.org/10.1101/2023.07.28.551057)
 
+### cell2fate
 
+Software: https://github.com/BayraktarLab/cell2fate
+
+Manuscript: [Model-based inference of RNA velocity modules improves cell fate prediction](https://doi.org/10.1101/2023.08.03.551650)
 
 
 
