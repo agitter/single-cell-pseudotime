@@ -789,7 +789,11 @@ Software: https://github.com/BayraktarLab/cell2fate
 
 Manuscript: [Model-based inference of RNA velocity modules improves cell fate prediction](https://doi.org/10.1101/2023.08.03.551650)
 
+### FBSDE
 
+Software: https://github.com/Diebrate/population_model
+
+Manuscript: [Modeling Single Cell Trajectory Using Forward-Backward Stochastic Differential Equations](https://doi.org/10.1101/2023.08.10.552373)
 
 
 
