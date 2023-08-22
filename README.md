@@ -795,6 +795,18 @@ Software: https://github.com/Diebrate/population_model
 
 Manuscript: [Modeling Single Cell Trajectory Using Forward-Backward Stochastic Differential Equations](https://doi.org/10.1101/2023.08.10.552373)
 
+### cy2path
+
+Software: https://github.com/aron0093/cy2path
+
+Manuscript: [Factorial state-space modelling for kinetic clustering and lineage inference](https://doi.org/10.1101/2023.08.21.554135)
+
+
+
+
+
+
+
 
 
 
