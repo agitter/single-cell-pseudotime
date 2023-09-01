@@ -701,7 +701,7 @@ Manuscript: [Pyro-Velocity: Probabilistic RNA Velocity inference from single-cel
 
 Software: https://github.com/elolab/Totem
 
-Manuscript: [Totem: a user-friendly tool for clustering-based inference of tree-shaped trajectories from single-cell data](https://doi.org/10.1101/2022.09.19.508535)
+Manuscript: [Cell-connectivity-guided trajectory inference from single-cell data](https://doi.org/10.1093/bioinformatics/btad515)
 
 ### scLTNN
 
