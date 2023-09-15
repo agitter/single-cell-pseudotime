@@ -801,7 +801,11 @@ Software: https://github.com/aron0093/cy2path
 
 Manuscript: [Factorial state-space modelling for kinetic clustering and lineage inference](https://doi.org/10.1101/2023.08.21.554135)
 
+### scEGOT
 
+Software: https://github.com/yachimura-lab/scEGOT
+
+Manuscript: [scEGOT: Single-cell trajectory inference framework based on entropic Gaussian mixture optimal transport](https://doi.org/10.1101/2023.09.11.557102)
 
 
 
