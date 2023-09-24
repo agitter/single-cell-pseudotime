@@ -807,6 +807,13 @@ Software: https://github.com/yachimura-lab/scEGOT
 
 Manuscript: [scEGOT: Single-cell trajectory inference framework based on entropic Gaussian mixture optimal transport](https://doi.org/10.1101/2023.09.11.557102)
 
+### Ricci flow
+
+Manuscript [Charting cellular differentiation trajectories with Ricci flow](https://doi.org/10.1101/2023.07.20.549833)
+
+
+
+
 
 
 
