@@ -1086,3 +1086,7 @@ Manuscript: [Gene-level alignment of single cell trajectories informs the progre
 Software: https://github.com/maclean-lab/popInfer
 
 Manuscript: [Gene regulatory network inference with popInfer reveals dynamic regulation of hematopoietic stem cell quiescence upon diet restriction and aging](https://doi.org/10.1101/2023.04.18.537360)
+
+### NeuroVelo
+
+Manuscript: [NeuroVelo: interpretable learning of cellular dynamics from single-cell transcriptomic data](https://doi.org/10.1101/2023.11.17.567500)
