@@ -809,8 +809,11 @@ Manuscript: [scEGOT: Single-cell trajectory inference framework based on entropi
 
 ### Ricci flow
 
-Manuscript [Charting cellular differentiation trajectories with Ricci flow](https://doi.org/10.1101/2023.07.20.549833)
+Manuscript: [Charting cellular differentiation trajectories with Ricci flow](https://doi.org/10.1101/2023.07.20.549833)
 
+### Flat NB-VAE
+
+Manuscript: [Modelling single-cell RNA-seq trajectories on a flat statistical manifold](https://openreview.net/pdf?id=sXRpvW3cRR)
 
 
 
