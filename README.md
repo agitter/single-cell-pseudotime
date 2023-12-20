@@ -42,7 +42,7 @@ Many modern ideas for pseudotime estimation are descended from [Magwene et al. 2
 
 Single-cell expression data have also inspired new methods for gene regulatory network reconstruction, as reviewed by [Fiers et al. 2018](https://doi.org/10.1093/bfgp/elx046) and [Todorov et al. 2018](https://doi.org/10.1007/978-1-4939-8882-2_10).
 Several of these, such as [SINGE](http://doi.org/10.1016/j.celrep.2022.110333), treat pseudotime annotations as time points and extend traditional time series network inference algorithms for single-cell data.
-[BEELINE](http://doi.org/10.1038/s41592-019-0690-6), [SERGIO](http://doi.org/10.1016/j.cels.2020.08.003), and [Stone et al. 2021](https://doi.org/10.1101/2021.06.01.446671) benchmark many of these specialized network inference methods.
+[BEELINE](http://doi.org/10.1038/s41592-019-0690-6), [SERGIO](http://doi.org/10.1016/j.cels.2020.08.003), and [McCalla et al. 2023](https://doi.org/10.1093/g3journal/jkad004) benchmark many of these specialized network inference methods.
 
 ## Choosing a method
 
