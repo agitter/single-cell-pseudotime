@@ -56,6 +56,7 @@ Some of the distinguishing factors among algorithms include:
 They benchmark both quantitative performance and assess software quality.
 See their [website](https://dynverse.org/) and [GitHub repository](https://github.com/dynverse/dynverse) as well.
 [Tian et al. 2018](https://doi.org/10.1101/433102) also include trajectory inference algorithms in their single-cell RNA-seq benchmarking study.
+[Escort](https://doi.org/10.1101/2023.12.18.572214) is a framework to help guide the selection of a suitable trajectory inference algorithm for a dataset.
 
 ## Algorithms
 
