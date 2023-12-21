@@ -1094,3 +1094,9 @@ Manuscript: [Gene regulatory network inference with popInfer reveals dynamic reg
 ### NeuroVelo
 
 Manuscript: [NeuroVelo: interpretable learning of cellular dynamics from single-cell transcriptomic data](https://doi.org/10.1101/2023.11.17.567500)
+
+### scLANE
+
+Software: https://github.com/jr-leary7/scLANE
+
+Manuscript: [Interpretable trajectory inference with single-cell Linear Adaptive Negative-binomial Expression (scLANE) testing](https://doi.org/10.1101/2023.12.19.572477)
