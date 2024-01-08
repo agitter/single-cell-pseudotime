@@ -816,6 +816,11 @@ Manuscript: [Charting cellular differentiation trajectories with Ricci flow](htt
 
 Manuscript: [Modelling single-cell RNA-seq trajectories on a flat statistical manifold](https://openreview.net/pdf?id=sXRpvW3cRR)
 
+### Sceptic
+
+Software: https://github.com/Noble-Lab/Sceptic
+
+Manuscript: [Pseudotime analysis for time-series single-cell sequencing and imaging data](https://doi.org/10.1101/2023.11.03.565575)
 
 
 
