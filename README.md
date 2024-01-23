@@ -824,6 +824,8 @@ Manuscript: [Pseudotime analysis for time-series single-cell sequencing and imag
 
 ### VeloCycle
 
+Software: https://github.com/lamanno-epfl/velocycle/
+
 Manuscript: [Statistical inference with a manifold-constrained RNA velocity model uncovers cell cycle speed modulations](https://doi.org/10.1101/2024.01.18.576093)
 
 
