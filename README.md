@@ -822,8 +822,9 @@ Software: https://github.com/Noble-Lab/Sceptic
 
 Manuscript: [Pseudotime analysis for time-series single-cell sequencing and imaging data](https://doi.org/10.1101/2023.11.03.565575)
 
+### VeloCycle
 
-
+Manuscript: [Statistical inference with a manifold-constrained RNA velocity model uncovers cell cycle speed modulations](https://doi.org/10.1101/2024.01.18.576093)
 
 
 
