@@ -828,6 +828,15 @@ Software: https://github.com/lamanno-epfl/velocycle/
 
 Manuscript: [Statistical inference with a manifold-constrained RNA velocity model uncovers cell cycle speed modulations](https://doi.org/10.1101/2024.01.18.576093)
 
+### Chronocell
+
+Software: https://github.com/pachterlab/FGP_2024
+
+Manuscript: [Trajectory inference from single-cell genomics data with a process time model](https://doi.org/10.1101/2024.01.26.577510)
+
+
+
+
 
 
 
