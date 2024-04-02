@@ -1117,3 +1117,9 @@ Manuscript: [NeuroVelo: interpretable learning of cellular dynamics from single-
 Software: https://github.com/jr-leary7/scLANE
 
 Manuscript: [Interpretable trajectory inference with single-cell Linear Adaptive Negative-binomial Expression (scLANE) testing](https://doi.org/10.1101/2023.12.19.572477)
+
+### ExDyn
+
+Software: https://github.com/kojikoji/exdyn
+
+Manuscript: [Inferring extrinsic factor-dependent single-cell transcriptome dynamics using a deep generative model](https://doi.org/10.1101/2024.04.01.587302)
