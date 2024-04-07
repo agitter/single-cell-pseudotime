@@ -1123,3 +1123,9 @@ Manuscript: [Interpretable trajectory inference with single-cell Linear Adaptive
 Software: https://github.com/kojikoji/exdyn
 
 Manuscript: [Inferring extrinsic factor-dependent single-cell transcriptome dynamics using a deep generative model](https://doi.org/10.1101/2024.04.01.587302)
+
+### Hodge decomposition
+
+Software: https://github.com/WeilabMSU/HHD
+
+Manuscript: [Hodge Decomposition of Single-Cell RNA Velocity](https://doi.org/10.1021/acs.jcim.4c00132)
