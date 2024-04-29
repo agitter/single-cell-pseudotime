@@ -834,6 +834,11 @@ Software: https://github.com/pachterlab/FGP_2024
 
 Manuscript: [Trajectory inference from single-cell genomics data with a process time model](https://doi.org/10.1101/2024.01.26.577510)
 
+### PSEUDOTIMEABC
+
+Software: https://github.com/keita-iida/PSEUDOTIMEABC
+
+Manuscript: [Identifying key regulatory genes in drug resistance acquisition: Modeling pseudotime trajectories of single-cell transcriptome](https://doi.org/10.1101/2024.04.25.591115)
 
 
 
