@@ -1138,3 +1138,9 @@ Manuscript: [Hodge Decomposition of Single-Cell RNA Velocity](https://doi.org/10
 ### ConsensusVelo
 
 Manuscript: [Quantifying uncertainty in RNA velocity](https://doi.org/10.1101/2024.05.14.594102)
+
+### scTEP
+
+Software: https://cran.r-project.org/package=scTEP
+
+Manuscript: [A robust and accurate single-cell data trajectory inference method using ensemble pseudotime](https://doi.org/10.1186%2Fs12859-023-05179-2)
