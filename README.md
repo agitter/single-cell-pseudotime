@@ -840,7 +840,11 @@ Software: https://github.com/keita-iida/PSEUDOTIMEABC
 
 Manuscript: [Identifying key regulatory genes in drug resistance acquisition: Modeling pseudotime trajectories of single-cell transcriptome](https://doi.org/10.1101/2024.04.25.591115)
 
+### scTEP
 
+Software: https://cran.r-project.org/package=scTEP
+
+Manuscript: [A robust and accurate single-cell data trajectory inference method using ensemble pseudotime](https://doi.org/10.1186/s12859-023-05179-2)
 
 
 
