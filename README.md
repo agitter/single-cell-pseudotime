@@ -846,6 +846,14 @@ Software: https://cran.r-project.org/package=scTEP
 
 Manuscript: [A robust and accurate single-cell data trajectory inference method using ensemble pseudotime](https://doi.org/10.1186/s12859-023-05179-2)
 
+### TrajAtlas
+
+Software: https://github.com/GilbertHan1011/TrajAtlas
+
+Manuscript: [Trajectory-centric Framework TrajAtlas reveals multi-scale differentiation heterogeneity among cells, genes, and gene module in osteogenesis](https://doi.org/10.1101/2024.05.28.596174)
+
+
+
 
 
 
