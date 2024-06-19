@@ -1150,3 +1150,9 @@ Manuscript: [Hodge Decomposition of Single-Cell RNA Velocity](https://doi.org/10
 ### ConsensusVelo
 
 Manuscript: [Quantifying uncertainty in RNA velocity](https://doi.org/10.1101/2024.05.14.594102)
+
+### Mellon
+
+Software: https://github.com/settylab/Mellon
+
+Manuscript: [Quantifying cell-state densities in single-cell phenotypic landscapes using Mellon](https://doi.org/10.1038/s41592-024-02302-w)
