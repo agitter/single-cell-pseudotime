@@ -1156,3 +1156,9 @@ Manuscript: [Quantifying uncertainty in RNA velocity](https://doi.org/10.1101/20
 Software: https://github.com/settylab/Mellon
 
 Manuscript: [Quantifying cell-state densities in single-cell phenotypic landscapes using Mellon](https://doi.org/10.1038/s41592-024-02302-w)
+
+### RNA velocity benchmark
+
+Software: https://github.com/czbiohub-sf/comparison-RNAVelo (currently private or broken)
+
+Manuscript: [Challenges and Progress in RNA Velocity: Comparative Analysis Across Multiple Biological Contexts](https://doi.org/10.1101/2024.06.25.600667)
