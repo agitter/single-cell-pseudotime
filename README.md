@@ -1162,3 +1162,9 @@ Manuscript: [Quantifying cell-state densities in single-cell phenotypic landscap
 Software: https://github.com/czbiohub-sf/comparison-RNAVelo (currently private or broken)
 
 Manuscript: [Challenges and Progress in RNA Velocity: Comparative Analysis Across Multiple Biological Contexts](https://doi.org/10.1101/2024.06.25.600667)
+
+### noSpliceVelo
+
+Software: https://github.com/Tarun-Mahajan/noSpliceVelo
+
+Manuscript: [noSpliceVelo infers gene expression dynamics without separating unspliced and spliced transcripts](https://doi.org/10.1101/2024.08.08.607261)
