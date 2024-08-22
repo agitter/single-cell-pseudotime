@@ -1168,3 +1168,9 @@ Manuscript: [Challenges and Progress in RNA Velocity: Comparative Analysis Acros
 Software: https://github.com/Tarun-Mahajan/noSpliceVelo
 
 Manuscript: [noSpliceVelo infers gene expression dynamics without separating unspliced and spliced transcripts](https://doi.org/10.1101/2024.08.08.607261)
+
+### Lomb-Scargle periodogram
+
+Software: https://github.com/hiuchi/LS
+
+Manuscript: [The Lomb-Scargle periodogram-based differentially expressed gene detection along pseudotime](https://doi.org/10.1101/2024.08.20.608497)
