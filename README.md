@@ -852,7 +852,11 @@ Software: https://github.com/GilbertHan1011/TrajAtlas
 
 Manuscript: [Trajectory-centric Framework TrajAtlas reveals multi-scale differentiation heterogeneity among cells, genes, and gene module in osteogenesis](https://doi.org/10.1101/2024.05.28.596174)
 
+### SNOW
 
+Software: https://bitbucket.org/biocomplexity/snow/src/main/
+
+Manuscript [Variational inference of single cell time series](https://doi.org/10.1101/2024.08.29.610389)
 
 
 
