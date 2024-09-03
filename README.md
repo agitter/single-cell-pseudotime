@@ -858,6 +858,16 @@ Software: https://bitbucket.org/biocomplexity/snow/src/main/
 
 Manuscript [Variational inference of single cell time series](https://doi.org/10.1101/2024.08.29.610389)
 
+### Meta Flow Matching
+
+Software: https://github.com/lazaratan/meta-flow-matching
+
+Manuscript: [Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](https://arxiv.org/abs/2408.14608)
+
+
+
+
+
 
 
 
