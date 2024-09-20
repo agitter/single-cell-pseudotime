@@ -1188,3 +1188,9 @@ Manuscript: [noSpliceVelo infers gene expression dynamics without separating uns
 Software: https://github.com/hiuchi/LS
 
 Manuscript: [The Lomb-Scargle periodogram-based differentially expressed gene detection along pseudotime](https://doi.org/10.1101/2024.08.20.608497)
+
+### MUSTARD
+
+Software: https://github.com/haotian-zhuang/MUSTARD
+
+Manuscript: [Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity](https://doi.org/10.1101/2024.09.14.613024)
