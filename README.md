@@ -864,6 +864,11 @@ Software: https://github.com/lazaratan/meta-flow-matching
 
 Manuscript: [Meta Flow Matching: Integrating Vector Fields on the Wasserstein Manifold](https://arxiv.org/abs/2408.14608)
 
+### scMultiNODE
+
+Software: https://github.com/rsinghlab/scMultiNODE
+
+Manuscript: [scMultiNODE: Integrative Model for Multi-Modal Temporal Single-Cell Data](https://doi.org/10.1101/2024.10.27.620531)
 
 
 
