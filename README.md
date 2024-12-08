@@ -1199,3 +1199,9 @@ Manuscript: [The Lomb-Scargle periodogram-based differentially expressed gene de
 Software: https://github.com/haotian-zhuang/MUSTARD
 
 Manuscript: [Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity](https://doi.org/10.1101/2024.09.14.613024)
+
+### GraphVelo
+
+Software: https://github.com/xing-lab-pitt/GraphVelo
+
+Manuscript: [GraphVelo allows inference of multi-modal single cell velocities and molecular mechanisms](https://doi.org/10.1101/2024.12.03.626638)
