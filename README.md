@@ -1205,3 +1205,9 @@ Manuscript: [Trajectory-guided dimensionality reduction for multi-sample single-
 Software: https://github.com/xing-lab-pitt/GraphVelo
 
 Manuscript: [GraphVelo allows inference of multi-modal single cell velocities and molecular mechanisms](https://doi.org/10.1101/2024.12.03.626638)
+
+### mmVelo
+
+Software: https://github.com/nomuhyooon/mmVelo
+
+Manuscript: [mmVelo: A deep generative model for estimating cell state-dependent dynamics across multiple modalities](https://doi.org/10.1101/2024.12.11.628059)
