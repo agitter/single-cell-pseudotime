@@ -1211,3 +1211,9 @@ Manuscript: [GraphVelo allows inference of multi-modal single cell velocities an
 Software: https://github.com/nomuhyooon/mmVelo
 
 Manuscript: [mmVelo: A deep generative model for estimating cell state-dependent dynamics across multiple modalities](https://doi.org/10.1101/2024.12.11.628059)
+
+### TSvelo
+
+Software: https://github.com/lijc0804/TSvelo
+
+Manuscript: [TSvelo: Comprehensive RNA velocity inference by jointly modeling Transcription and Splicing](https://doi.org/10.1101/2024.12.24.630058)
