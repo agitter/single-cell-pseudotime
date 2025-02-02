@@ -870,6 +870,15 @@ Software: https://github.com/rsinghlab/scMultiNODE
 
 Manuscript: [scMultiNODE: Integrative Model for Multi-Modal Temporal Single-Cell Data](https://doi.org/10.1101/2024.10.27.620531)
 
+### ARTEMIS
+
+Software: https://github.com/daifengwanglab/ARTEMIS
+
+Manuscript: [ARTEMIS integrates autoencoders and Schrödinger Bridges to predict continuous dynamics of gene expression, cell population and perturbation from time-series single-cell data](https://doi.org/10.1101/2025.01.23.634618)
+
+
+
+
 
 
 
