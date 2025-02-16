@@ -876,6 +876,11 @@ Software: https://github.com/daifengwanglab/ARTEMIS
 
 Manuscript: [ARTEMIS integrates autoencoders and Schrödinger Bridges to predict continuous dynamics of gene expression, cell population and perturbation from time-series single-cell data](https://doi.org/10.1101/2025.01.23.634618)
 
+### Commute time
+
+Software: https://github.com/houston-lab/paper-code-files/tree/main/Houston_2025
+
+Manuscript: [Alternative approaches to single-cell trajectory inference using a commute time matrix](https://doi.org/10.1101/2025.02.12.635984)
 
 
 
