@@ -1236,3 +1236,9 @@ Manuscript: [mmVelo: A deep generative model for estimating cell state-dependent
 Software: https://github.com/lijc0804/TSvelo
 
 Manuscript: [TSvelo: Comprehensive RNA velocity inference by jointly modeling Transcription and Splicing](https://doi.org/10.1101/2024.12.24.630058)
+
+### TimeFlow
+
+Software: https://github.com/MargaritaLiarou1/TimeFlow
+
+Manuscript: [TimeFlow: a density-driven pseudotime method for flow cytometry data analysis](https://doi.org/10.1101/2025.02.16.638508)
