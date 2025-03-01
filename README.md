@@ -1242,3 +1242,7 @@ Manuscript: [TSvelo: Comprehensive RNA velocity inference by jointly modeling Tr
 Software: https://github.com/MargaritaLiarou1/TimeFlow
 
 Manuscript: [TimeFlow: a density-driven pseudotime method for flow cytometry data analysis](https://doi.org/10.1101/2025.02.16.638508)
+
+### CGLUE-SOE
+
+Manuscript: [Trajectory Inference for Multi-Omics Data Using Ordered Labels](https://doi.org/10.1101/2025.02.25.640243)
