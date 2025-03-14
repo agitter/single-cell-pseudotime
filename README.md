@@ -888,7 +888,11 @@ Software: https://github.com/raphael-group/HM-OT
 
 Manuscript: [Learning Latent Trajectories in Developmental Time Series with Hidden-Markov Optimal Transport](https://doi.org/10.1101/2025.02.14.638351)
 
+# scLTNN
 
+Software: https://github.com/Starlitnightly/scLTNN
+
+Manuscript: [scLTNN: an innovative tool for automatically visualizing single-cell trajectories](https://doi.org/10.1093/bioadv/vbaf033)
 
 
 
