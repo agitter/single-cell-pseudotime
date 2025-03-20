@@ -1250,3 +1250,9 @@ Manuscript: [TimeFlow: a density-driven pseudotime method for flow cytometry dat
 ### CGLUE-SOE
 
 Manuscript: [Trajectory Inference for Multi-Omics Data Using Ordered Labels](https://doi.org/10.1101/2025.02.25.640243)
+
+### SOCS
+
+Software: https://github.com/algo-bio-lab/SOCS
+
+Manuscript: [Accurate trajectory inference in time-series spatial transcriptomics with structurally-constrained optimal transport](https://doi.org/10.1101/2025.03.19.644194)
