@@ -1256,3 +1256,9 @@ Manuscript: [Trajectory Inference for Multi-Omics Data Using Ordered Labels](htt
 Software: https://github.com/algo-bio-lab/SOCS
 
 Manuscript: [Accurate trajectory inference in time-series spatial transcriptomics with structurally-constrained optimal transport](https://doi.org/10.1101/2025.03.19.644194)
+
+### PyEvoCell
+
+Software: https://github.com/Sanofi-Public/PyEvoCell
+
+Manuscript: [PyEvoCell: An LLM- Augmented Single Cell Trajectory Analysis Dashboard](https://doi.org/10.1101/2024.11.21.624686)
