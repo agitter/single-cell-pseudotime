@@ -1262,3 +1262,9 @@ Manuscript: [Accurate trajectory inference in time-series spatial transcriptomic
 Software: https://github.com/Sanofi-Public/PyEvoCell
 
 Manuscript: [PyEvoCell: An LLM- Augmented Single Cell Trajectory Analysis Dashboard](https://doi.org/10.1101/2024.11.21.624686)
+
+### Single-cell lipidomics
+
+Software: https://github.com/PaulJonasJost/Pseudo-time-trajectory-of-single-cell-lipidomics
+
+Manuscript: [Pseudo-time trajectory of single-cell lipidomics: Suggestion for experimental setup and computational analysis](https://doi.org/10.1101/2025.04.11.648323)
