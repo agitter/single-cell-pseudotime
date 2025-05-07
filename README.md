@@ -894,6 +894,11 @@ Software: https://github.com/Starlitnightly/scLTNN
 
 Manuscript: [scLTNN: an innovative tool for automatically visualizing single-cell trajectories](https://doi.org/10.1093/bioadv/vbaf033)
 
+# pseudovelocity
+
+Software: https://gitlab.com/Xparx/pseudovelocity
+
+Manuscript: [Genome-wide expression gradient estimation based on local pseudotime in single cell RNA sequencing](https://doi.org/10.1101/2025.05.01.650773)
 
 
 
