@@ -1273,3 +1273,9 @@ Manuscript: [PyEvoCell: An LLM- Augmented Single Cell Trajectory Analysis Dashbo
 Software: https://github.com/PaulJonasJost/Pseudo-time-trajectory-of-single-cell-lipidomics
 
 Manuscript: [Pseudo-time trajectory of single-cell lipidomics: Suggestion for experimental setup and computational analysis](https://doi.org/10.1101/2025.04.11.648323)
+
+### scTransient
+
+Software: https://github.com/xomicsdatascience/scTransientNotebooks
+
+Manuscript: [Single-Cell Trajectory Inference for Detecting Transient Events in Biological Processes](https://doi.org/10.1101/2025.05.07.652753)
