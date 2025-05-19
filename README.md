@@ -900,6 +900,12 @@ Software: https://gitlab.com/Xparx/pseudovelocity
 
 Manuscript: [Genome-wide expression gradient estimation based on local pseudotime in single cell RNA sequencing](https://doi.org/10.1101/2025.05.01.650773)
 
+# scRDEN
+
+Manuscript: [scRDEN: single-cell dynamic gene rank differential expression network and robust trajectory inference](https://doi.org/10.1038/s41598-025-01969-1)
+
+
+
 
 
 
