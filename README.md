@@ -904,6 +904,12 @@ Manuscript: [Genome-wide expression gradient estimation based on local pseudotim
 
 Manuscript: [scRDEN: single-cell dynamic gene rank differential expression network and robust trajectory inference](https://doi.org/10.1038/s41598-025-01969-1)
 
+# BranchSBM
+
+Software: https://huggingface.co/ChatterjeeLab/BranchSBM
+
+Manuscript: [Branched Schrödinger Bridge Matching](https://arxiv.org/abs/2506.09007)
+ 
 
 
 
