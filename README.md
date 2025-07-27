@@ -2,7 +2,7 @@
 [![Test links](https://github.com/agitter/single-cell-pseudotime/actions/workflows/links.yml/badge.svg)](https://github.com/agitter/single-cell-pseudotime/actions/workflows/links.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1297422.svg)](https://doi.org/10.5281/zenodo.1297422)
 
-Single cells, many algorithms.scLTNN
+Single cells, many algorithms.
 The goal of this page is to catalog the many algorithms that estimate pseudotimes for cells based on their gene expression levels.
 This problem is also referred to as single-cell trajectory inference or ordering.
 It contains method names, software links, and manuscript links and simply seeks to list as many methods as possible without commentary.
