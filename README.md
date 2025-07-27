@@ -910,6 +910,12 @@ Software: https://huggingface.co/ChatterjeeLab/BranchSBM
 
 Manuscript: [Branched Schrödinger Bridge Matching](https://arxiv.org/abs/2506.09007)
  
+# CellREST
+
+Manuscript: [Rethinking scRNA-seq Trajectories in Phylogenetic Paradigms: Overcoming Challenges of Missing Ancestral Information](https://doi.org/10.1101/2025.07.22.664676)
+
+
+
 
 
 
