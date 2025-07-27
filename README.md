@@ -2,7 +2,7 @@
 [![Test links](https://github.com/agitter/single-cell-pseudotime/actions/workflows/links.yml/badge.svg)](https://github.com/agitter/single-cell-pseudotime/actions/workflows/links.yml)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1297422.svg)](https://doi.org/10.5281/zenodo.1297422)
 
-Single cells, many algorithms.
+Single cells, many algorithms.scLTNN
 The goal of this page is to catalog the many algorithms that estimate pseudotimes for cells based on their gene expression levels.
 This problem is also referred to as single-cell trajectory inference or ordering.
 It contains method names, software links, and manuscript links and simply seeks to list as many methods as possible without commentary.
@@ -888,29 +888,29 @@ Software: https://github.com/raphael-group/HM-OT
 
 Manuscript: [Learning Latent Trajectories in Developmental Time Series with Hidden-Markov Optimal Transport](https://doi.org/10.1101/2025.02.14.638351)
 
-# scLTNN
+### scLTNN
 
 Software: https://github.com/Starlitnightly/scLTNN
 
 Manuscript: [scLTNN: an innovative tool for automatically visualizing single-cell trajectories](https://doi.org/10.1093/bioadv/vbaf033)
 
-# pseudovelocity
+### pseudovelocity
 
 Software: https://gitlab.com/Xparx/pseudovelocity
 
 Manuscript: [Genome-wide expression gradient estimation based on local pseudotime in single cell RNA sequencing](https://doi.org/10.1101/2025.05.01.650773)
 
-# scRDEN
+### scRDEN
 
 Manuscript: [scRDEN: single-cell dynamic gene rank differential expression network and robust trajectory inference](https://doi.org/10.1038/s41598-025-01969-1)
 
-# BranchSBM
+### BranchSBM
 
 Software: https://huggingface.co/ChatterjeeLab/BranchSBM
 
 Manuscript: [Branched Schrödinger Bridge Matching](https://arxiv.org/abs/2506.09007)
  
-# CellREST
+### CellREST
 
 Manuscript: [Rethinking scRNA-seq Trajectories in Phylogenetic Paradigms: Overcoming Challenges of Missing Ancestral Information](https://doi.org/10.1101/2025.07.22.664676)
 
