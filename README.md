@@ -1297,3 +1297,7 @@ Manuscript: [Pseudo-time trajectory of single-cell lipidomics: Suggestion for ex
 Software: https://github.com/xomicsdatascience/scTransientNotebooks
 
 Manuscript: [Single-Cell Trajectory Inference for Detecting Transient Events in Biological Processes](https://doi.org/10.1101/2025.05.07.652753)
+
+### Benchmarking RNA velocity
+
+Manuscript: [Benchmarking RNA velocity methods across 17 independent studies](https://doi.org/10.1101/2025.08.02.668272)
