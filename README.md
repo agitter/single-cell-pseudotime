@@ -1301,3 +1301,9 @@ Manuscript: [Single-Cell Trajectory Inference for Detecting Transient Events in 
 ### Benchmarking RNA velocity
 
 Manuscript: [Benchmarking RNA velocity methods across 17 independent studies](https://doi.org/10.1101/2025.08.02.668272)
+
+### BLASE
+
+Software: https://github.com/andrewmccluskey-uog/blase
+
+Manuscript: [BLASE: Bulk Linkage Analysis for Single Cell Experiments - Teasing Out the Secrets of Bulk Transcriptomics with Trajectory Analysis](https://doi.org/10.1101/2025.09.03.673925)
