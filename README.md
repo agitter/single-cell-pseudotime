@@ -1307,3 +1307,9 @@ Manuscript: [Benchmarking RNA velocity methods across 17 independent studies](ht
 Software: https://github.com/andrewmccluskey-uog/blase
 
 Manuscript: [BLASE: Bulk Linkage Analysis for Single Cell Experiments - Teasing Out the Secrets of Bulk Transcriptomics with Trajectory Analysis](https://doi.org/10.1101/2025.09.03.673925)
+
+### scFPC-DE
+
+Software: https://github.com/LopezRicardo1/scFPCDE
+
+Manuscript: [scFPC-DE: Robust Differential Expression Analysis Along Single Cell Trajectories via Functional Principal Component Analysis](https://doi.org/10.1101/2025.11.03.686374)
