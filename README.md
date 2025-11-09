@@ -1313,3 +1313,9 @@ Manuscript: [BLASE: Bulk Linkage Analysis for Single Cell Experiments - Teasing 
 Software: https://github.com/LopezRicardo1/scFPCDE
 
 Manuscript: [scFPC-DE: Robust Differential Expression Analysis Along Single Cell Trajectories via Functional Principal Component Analysis](https://doi.org/10.1101/2025.11.03.686374)
+
+### velotest
+
+Software: https://github.com/mackelab/velocity-hypothesis-test/
+
+Manuscript: [velotest: Statistical assessment of RNA velocity embeddings reveals quality differences for reliable trajectory visualizations](https://doi.org/10.1101/2025.10.26.683064)
