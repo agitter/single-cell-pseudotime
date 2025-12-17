@@ -1319,3 +1319,9 @@ Manuscript: [scFPC-DE: Robust Differential Expression Analysis Along Single Cell
 Software: https://github.com/mackelab/velocity-hypothesis-test/
 
 Manuscript: [velotest: Statistical assessment of RNA velocity embeddings reveals quality differences for reliable trajectory visualizations](https://doi.org/10.1101/2025.10.26.683064)
+
+### SEEK-VFI
+
+Software: https://github.com/rdanning/seekvfi
+
+Manuscript: [Trajectory-informed gene feature selection in single-cell analysis with SEEK-VFI](https://doi.org/10.64898/2025.12.12.694028)
