@@ -914,6 +914,15 @@ Manuscript: [Branched Schrödinger Bridge Matching](https://arxiv.org/abs/2506.0
 
 Manuscript: [Rethinking scRNA-seq Trajectories in Phylogenetic Paradigms: Overcoming Challenges of Missing Ancestral Information](https://doi.org/10.1101/2025.07.22.664676)
 
+### Ouroboros
+
+Software: https://github.com/steiflab/Ouroboros
+
+Manuscript: [Deep learning inference of universal dormancy pseudotime reveals the cellular targets of anti-cancer therapies](https://doi.org/10.64898/2025.12.14.692655)
+
+
+
+
 
 
 
