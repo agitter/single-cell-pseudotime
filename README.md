@@ -920,7 +920,9 @@ Software: https://github.com/steiflab/Ouroboros
 
 Manuscript: [Deep learning inference of universal dormancy pseudotime reveals the cellular targets of anti-cancer therapies](https://doi.org/10.64898/2025.12.14.692655)
 
+### GRAIL
 
+Manuscript: [Generative Reconstruction of Unobserved Cellular Dynamics using Single-Cell Transcriptomic Trajectories](https://doi.org/10.64898/2025.12.29.696948)
 
 
 
