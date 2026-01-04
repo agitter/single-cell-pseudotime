@@ -1336,3 +1336,11 @@ Manuscript: [velotest: Statistical assessment of RNA velocity embeddings reveals
 Software: https://github.com/rdanning/seekvfi
 
 Manuscript: [Trajectory-informed gene feature selection in single-cell analysis with SEEK-VFI](https://doi.org/10.64898/2025.12.12.694028)
+
+### Benchmarking RNA velocity inference
+
+Software: https://github.com/vikkihuangkexin/VelocityBenchmarking
+
+Website: https://relab.xidian.edu.cn/RNAVelocity/
+
+Manuscript: [Benchmarking algorithms for RNA velocity inference](https://doi.org/10.64898/2026.01.03.697314)
