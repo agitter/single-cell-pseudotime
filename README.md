@@ -924,6 +924,14 @@ Manuscript: [Deep learning inference of universal dormancy pseudotime reveals th
 
 Manuscript: [Generative Reconstruction of Unobserved Cellular Dynamics using Single-Cell Transcriptomic Trajectories](https://doi.org/10.64898/2025.12.29.696948)
 
+### Pseudotime Graph Diffusion
+
+Manuscript: [Pseudotime graph diffusion for post hoc visualization of inferred single-cell trajectories](https://doi.org/10.64898/2026.01.27.702126)
+
+
+
+
+
 
 
 
