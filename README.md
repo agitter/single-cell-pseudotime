@@ -1352,3 +1352,9 @@ Software: https://github.com/vikkihuangkexin/VelocityBenchmarking
 Website: https://relab.xidian.edu.cn/RNAVelocity/
 
 Manuscript: [Benchmarking algorithms for RNA velocity inference](https://doi.org/10.64898/2026.01.03.697314)
+
+### GRAVITY
+
+Software: https://github.com/CSUBioGroup/GRAVITY
+
+Manuscript: [GRAVITY: Dynamic gene regulatory network-enhanced RNA velocity modeling for trajectory inference and biological discovery](https://doi.org/10.64898/2026.01.31.702983)
