@@ -928,6 +928,12 @@ Manuscript: [Generative Reconstruction of Unobserved Cellular Dynamics using Sin
 
 Manuscript: [Pseudotime graph diffusion for post hoc visualization of inferred single-cell trajectories](https://doi.org/10.64898/2026.01.27.702126)
 
+# CellDyc
+
+Software: https://github.com/hsinring/celldyc
+
+Manuscript: [Experimental Time Points Guided Transcriptomic Velocity Inference](https://doi.org/10.64898/2026.02.17.705910)
+
 
 
 
