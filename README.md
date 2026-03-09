@@ -934,6 +934,11 @@ Software: https://github.com/hsinring/celldyc
 
 Manuscript: [Experimental Time Points Guided Transcriptomic Velocity Inference](https://doi.org/10.64898/2026.02.17.705910)
 
+# SPAE
+
+Software: https://github.com/YaJahn/SPAE
+
+Manuscript: [Deciphering Cell Cycle Dynamics and Cell States in Single-cell RNA-seq data with SPAE](https://doi.org/10.64898/2026.03.05.709782)
 
 
 
