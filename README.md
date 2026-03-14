@@ -1369,3 +1369,7 @@ Manuscript: [Benchmarking algorithms for RNA velocity inference](https://doi.org
 Software: https://github.com/CSUBioGroup/GRAVITY
 
 Manuscript: [GRAVITY: Dynamic gene regulatory network-enhanced RNA velocity modeling for trajectory inference and biological discovery](https://doi.org/10.64898/2026.01.31.702983)
+
+### Benchmarking zero-shot single-cell foundation model embeddings
+
+Manuscript: [Benchmarking zero-shot single-cell foundation model embeddings for cellular dynamics reconstruction](https://doi.org/10.64898/2026.03.10.710748)
