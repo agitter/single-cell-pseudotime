@@ -1385,3 +1385,9 @@ Manuscript: [Benchmarking zero-shot single-cell foundation model embeddings for 
 Software: https://github.com/li-lab-mcgill/scTimeBench
 
 Manuscript: [scTimeBench: A streamlined benchmarking platform for single-cell time-series analysis](https://doi.org/10.64898/2026.03.16.712069)
+
+### CardamomOT
+
+Software: https://github.com/eliasventre/CardamomOT
+
+Manuscript: [CardamomOT: a mechanistic optimal transport-based framework for gene regulatory network inference, trajectory reconstruction and generative modeling](https://doi.org/10.64898/2026.03.31.715390)
