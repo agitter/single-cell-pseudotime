@@ -928,17 +928,23 @@ Manuscript: [Generative Reconstruction of Unobserved Cellular Dynamics using Sin
 
 Manuscript: [Pseudotime graph diffusion for post hoc visualization of inferred single-cell trajectories](https://doi.org/10.64898/2026.01.27.702126)
 
-# CellDyc
+### CellDyc
 
 Software: https://github.com/hsinring/celldyc
 
 Manuscript: [Experimental Time Points Guided Transcriptomic Velocity Inference](https://doi.org/10.64898/2026.02.17.705910)
 
-# SPAE
+### SPAE
 
 Software: https://github.com/YaJahn/SPAE
 
 Manuscript: [Deciphering Cell Cycle Dynamics and Cell States in Single-cell RNA-seq data with SPAE](https://doi.org/10.64898/2026.03.05.709782)
+
+### MaxToki
+
+Software: https://github.com/NVIDIA-Digital-Bio/MaxToki
+
+Manuscript: [Temporal AI model predicts drivers of cell state trajectories across human aging](https://doi.org/10.64898/2026.03.30.715396)
 
 
 
