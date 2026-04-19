@@ -946,6 +946,12 @@ Software: https://github.com/NVIDIA-Digital-Bio/MaxToki
 
 Manuscript: [Temporal AI model predicts drivers of cell state trajectories across human aging](https://doi.org/10.64898/2026.03.30.715396)
 
+### VeloTrace 
+
+Manuscript: [VeloTrace Reconciles Divergent Velocity and Trajectory in Single-cell Transcriptomics with Deep Neural ODE](https://doi.org/10.64898/2026.04.09.717458)
+
+
+
 
 
 
