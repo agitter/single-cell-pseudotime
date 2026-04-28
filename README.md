@@ -950,6 +950,11 @@ Manuscript: [Temporal AI model predicts drivers of cell state trajectories acros
 
 Manuscript: [VeloTrace Reconciles Divergent Velocity and Trajectory in Single-cell Transcriptomics with Deep Neural ODE](https://doi.org/10.64898/2026.04.09.717458)
 
+### scSketch
+
+Software: https://github.com/colabobio/scsketch
+
+Manuscript: [scSketch: Interactive Sketch-based Trajectory Exploration and Pathway-Aware Analysis of Single-Cell Data](https://doi.org/10.64898/2026.04.16.718997)
 
 
 
