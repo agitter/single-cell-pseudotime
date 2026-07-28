@@ -956,6 +956,11 @@ Software: https://github.com/colabobio/scsketch
 
 Manuscript: [scSketch: Interactive Sketch-based Trajectory Exploration and Pathway-Aware Analysis of Single-Cell Data](https://doi.org/10.64898/2026.04.16.718997)
 
+### ArchVelo
+
+Software: https://github.com/pritykinlab/ArchVelo
+
+Manuscript: [ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories](https://doi.org/10.1038/s41467-026-74000-4)
 
 
 
