@@ -962,6 +962,11 @@ Software: https://github.com/pritykinlab/ArchVelo
 
 Manuscript: [ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories](https://doi.org/10.1038/s41467-026-74000-4)
 
+### Moirai
+
+Software: https://github.com/jeuken/Moirai
+
+Manuscript: [Moirai: single-cell trajectory inference grounded in gene-level expression dynamics](https://doi.org/10.64898/2026.08.05.742709)
 
 
 
