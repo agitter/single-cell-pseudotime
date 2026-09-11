@@ -968,6 +968,11 @@ Software: https://github.com/jeuken/Moirai
 
 Manuscript: [Moirai: single-cell trajectory inference grounded in gene-level expression dynamics](https://doi.org/10.64898/2026.08.05.742709)
 
+### Cavebear
+
+Software: https://github.com/ranzhanglab/Cavebear
+
+Manuscript: [Reference-guided pseudotime inference across species and biological contexts](https://doi.org/10.64898/2026.09.04.749461)
 
 
 
