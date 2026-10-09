@@ -1417,3 +1417,7 @@ Manuscript: [scTimeBench: A streamlined benchmarking platform for single-cell ti
 Software: https://github.com/eliasventre/CardamomOT
 
 Manuscript: [CardamomOT: a mechanistic optimal transport-based framework for gene regulatory network inference, trajectory reconstruction and generative modeling](https://doi.org/10.64898/2026.03.31.715390)
+
+### STAVelo
+
+Manuscript: [STAVelo: deciphering spatiotemporal cellular dynamics via spatial RNA velocity inference from spatial transcriptomics data](https://doi.org/10.64898/2026.10.02.756177)
