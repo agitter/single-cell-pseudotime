@@ -159,7 +159,7 @@ Manuscript: [A descriptive marker gene approach to single-cell pseudotime infere
 
 ### CellTrails
 
-Sofware: https://bioconductor.org/packages/release/bioc/html/CellTrails.html
+Software: https://bioconductor.org/packages/release/bioc/html/CellTrails.html
 
 Manuscript: [Transcriptional dynamics of hair-bundle morphogenesis revealed with CellTrails](https://doi.org/10.1016/j.celrep.2018.05.002)
 
