@@ -1421,3 +1421,7 @@ Manuscript: [CardamomOT: a mechanistic optimal transport-based framework for gen
 ### STAVelo
 
 Manuscript: [STAVelo: deciphering spatiotemporal cellular dynamics via spatial RNA velocity inference from spatial transcriptomics data](https://doi.org/10.64898/2026.10.02.756177)
+
+### LoCoFlow
+
+Manuscript: [LoCoFlow: Local-Context Flow Matching for Single-Cell Dynamics and Fate Inference]()
