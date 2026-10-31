@@ -1424,4 +1424,10 @@ Manuscript: [STAVelo: deciphering spatiotemporal cellular dynamics via spatial R
 
 ### LoCoFlow
 
-Manuscript: [LoCoFlow: Local-Context Flow Matching for Single-Cell Dynamics and Fate Inference]()
+Manuscript: [LoCoFlow: Local-Context Flow Matching for Single-Cell Dynamics and Fate Inference](https://doi.org/10.64898/2026.10.15.758594)
+
+### bowside
+
+Software: https://github.com/janschleicher/bowside
+
+Manuscript: [Mechanistic gene-regulation-based trajectory inference with bowside](https://doi.org/10.64898/2026.10.26.761800)
